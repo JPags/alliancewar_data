@@ -1,0 +1,391 @@
+{
+    "style": "lab", 
+    "info": " Thanks to JoshSizemore, Sabol, Clobberin'Time & Dragon for map data",
+	"nodes": {
+		
+        "b_1": {"pos": "0|0", "number":"b_1", "type": 0 },
+        "b_2": {"pos": "-2|0", "number":"b_2", "type": 0 },
+        "p_1": {"pos": "0|-2", "number":"p_1", "type": 2 },
+        "p_2": {"pos": "2|0", "number":"p_2", "type": 2 },
+        "p_3": {"pos": "0|2", "number":"p_3", "type": 2 },
+        "p_4": {"pos": "-3|1", "number":"p_4", "type": 2 },
+        "p_5": {"pos": "-3|-1", "number":"p_5", "type": 2 },
+
+
+        "b_3": {"pos": "-16|0", "number":"b_3", "type": 3 },
+        "1": {"pos": "-14|0", "number":"1", "type": 1 },
+        "b_4": {"pos": "-12|0", "number":"b_4", "type": 0 },
+        "b_5": {"pos": "-10|0", "number":"b_5", "type": 0 },
+
+        "b_6": {"pos": "-10|2", "number":"b_6", "type": 0 },
+        "2": {"pos": "-12|2", "number":"2", "type": 1 },
+        "b_7": {"pos": "-14|2", "number":"b_7", "type": 0 },
+        "3": {"pos": "-16|2", "number":"3", "type": 1 },
+        
+        "4": {"pos": "-16|4", "number":"4", "type": 1 },
+        "5": {"pos": "-14|4", "number":"5", "type": 1 },
+        "b_8": {"pos": "-12|4", "number":"b_8", "type": 0 },
+        "b_9": {"pos": "-10|4", "number":"b_9", "type": 0 },
+
+        "b_10": {"pos": "-10|6", "number":"b_10", "type": 0 },
+        "6": {"pos": "-12|6", "number":"6", "type": 1 },
+        "b_11": {"pos": "-14|6", "number":"b_11", "type": 0 },
+        "7": {"pos": "-16|6", "number":"7", "type": 1 },
+        
+        "8": {"pos": "-16|8", "number":"8", "type": 1 },
+        "9": {"pos": "-14|8", "number":"9", "type": 1 },
+        "b_12": {"pos": "-12|8", "number":"b_12", "type": 0 },
+        "b_13": {"pos": "-10|8", "number":"b_13", "type": 2 },
+
+
+        "b_14": {"pos": "-10|12", "number":"b_14", "type": 3 },
+        "10": {"pos": "-12|12", "number":"10", "type": 1 },
+        "b_15": {"pos": "-14|12", "number":"b_15", "type": 0 },
+        "11": {"pos": "-16|12", "number":"11", "type": 1 },
+        
+        "12": {"pos": "-16|14", "number":"12", "type": 1 },
+        "13": {"pos": "-14|14", "number":"13", "type": 1 },
+        "b_16": {"pos": "-12|14", "number":"b_16", "type": 0 },
+        "b_17": {"pos": "-10|14", "number":"b_17", "type": 0 },
+
+        "b_18": {"pos": "-10|16", "number":"b_18", "type": 0 },
+        "14": {"pos": "-12|16", "number":"14", "type": 1 },
+        "b_19": {"pos": "-14|16", "number":"b_19", "type": 0 },
+        "15": {"pos": "-16|16", "number":"15", "type": 1 },
+        
+        "16": {"pos": "-16|18", "number":"16", "type": 1 },
+        "17": {"pos": "-14|18", "number":"17", "type": 1 },
+        "b_20": {"pos": "-12|18", "number":"b_20", "type": 0 },
+        "b_21": {"pos": "-10|18", "number":"b_21", "type": 0 },
+
+        "b_22": {"pos": "-10|20", "number":"b_22", "type": 2 },
+
+
+
+        "b_23": {"pos": "16|2", "number":"b_23", "type": 3 },
+        "18": {"pos": "14|2", "number":"18", "type": 1 },
+        "b_24": {"pos": "12|2", "number":"b_24", "type": 0 },
+        "19": {"pos": "10|2", "number":"19", "type": 1 },
+        
+        "20": {"pos": "10|4", "number":"20", "type": 1 },
+        "b_25": {"pos": "12|4", "number":"25", "type": 0 },
+        "21": {"pos": "14|4", "number":"21", "type": 1 },
+        "b_26": {"pos": "16|4", "number":"b_26", "type": 0 },
+
+        "b_27": {"pos": "16|6", "number":"b_27", "type": 0 },
+        "22": {"pos": "14|6", "number":"22", "type": 1 },
+        "b_28": {"pos": "12|6", "number":"b_28", "type": 0 },
+        "23": {"pos": "10|6", "number":"23", "type": 1 },
+        
+        "24": {"pos": "10|8", "number":"24", "type": 1 },
+        "25": {"pos": "12|8", "number":"25", "type": 1 },
+        "b_29": {"pos": "14|8", "number":"b_29", "type": 0 },
+        "b_30": {"pos": "16|8", "number":"b_30", "type": 2 },
+
+
+
+        "b_31": {"pos": "10|12", "number":"b_31", "type": 3 },
+        "b_32": {"pos": "12|12", "number":"b_32", "type": 0 },
+        "26": {"pos": "14|12", "number":"26", "type": 1 },
+        "27": {"pos": "16|12", "number":"27", "type": 1 },
+        
+        "b_33": {"pos": "16|14", "number":"b_33", "type": 0 },
+        "28": {"pos": "14|14", "number":"28", "type": 1 },
+        "b_34": {"pos": "12|14", "number":"b_34", "type": 0 },
+        "b_35": {"pos": "10|14", "number":"b_35", "type": 0 },
+
+        "b_36": {"pos": "10|16", "number":"b_36", "type": 0 },
+        "29": {"pos": "12|16", "number":"29", "type": 1 },
+        "30": {"pos": "14|16", "number":"30", "type": 1 },
+        "b_37": {"pos": "16|16", "number":"b_37", "type": 0 },
+        
+        "31": {"pos": "16|18", "number":"31", "type": 1 },
+        "b_38": {"pos": "14|18", "number":"b_38", "type": 2 },
+
+
+
+        "b_39": {"pos": "-5|7", "number":"b_39", "type": 3 },
+        "32": {"pos": "-3|7", "number":"32", "type": 1 },
+        "b_40": {"pos": "-1|7", "number":"b_40", "type": 0 },
+        "33": {"pos": "1|7", "number":"33", "type": 1 },
+        "34": {"pos": "3|7", "number":"34", "type": 1 },
+        "b_41": {"pos": "5|7", "number":"b_41", "type": 0 },
+        
+        "b_42": {"pos": "5|9", "number":"b_42", "type": 0 },
+        "b_43": {"pos": "3|9", "number":"b_43", "type": 0 },
+        "35": {"pos": "1|9", "number":"35", "type": 1 },
+        "b_44": {"pos": "-1|9", "number":"b_44", "type": 0 },
+        "b_45": {"pos": "-3|9", "number":"b_45", "type": 2 },
+
+
+        "b_46": {"pos": "-6|14", "number":"b_46", "type": 2 },
+        "36": {"pos": "-4|14", "number":"36", "type": 1 },
+        "37": {"pos": "-2|14", "number":"37", "type": 1 },
+        "b_47": {"pos": "0|14", "number":"b_47", "type": 3 },
+        "38": {"pos": "2|14", "number":"38", "type": 1 },
+        "39": {"pos": "4|14", "number":"39", "type": 1 },
+        "b_48": {"pos": "6|14", "number":"b_48", "type": 2 },
+
+        "b_49": {"pos": "-2|16", "number":"b_49", "type": 0 },
+        "b_50": {"pos": "0|16", "number":"b_50", "type": 0 },
+        "b_51": {"pos": "2|16", "number":"b_51", "type": 0 },
+
+        "b_52": {"pos": "-4|18", "number":"b_52", "type": 2 },
+        "40": {"pos": "-2|18", "number":"40", "type": 1 },
+        "b_53": {"pos": "2|18", "number":"b_53", "type": 0 },
+        "41": {"pos": "4|18", "number":"41", "type": 1 },
+        "42": {"pos": "6|18", "number":"42", "type": 1 },
+        "b_54": {"pos": "8|18", "number":"b_54", "type": 2 },
+
+        "43": {"pos": "-4|20", "number":"43", "type": 1 },
+        "44": {"pos": "-2|20", "number":"44", "type": 1 },
+        "45": {"pos": "2|20", "number":"45", "type": 1 },
+
+        "46": {"pos": "2|22", "number":"46", "type": 1 },
+        "b_55": {"pos": "4|22", "number":"b_55", "type": 2 },
+
+        "b_56": {"pos": "0|24", "number":"b_56", "type": 3 },
+        "b_57": {"pos": "0|26", "number":"b_57", "type": 0 },
+        "47": {"pos": "0|28", "number":"47", "type": 1 }
+       
+	},
+	"base_paths": {
+        "p_1_1": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_1","b_2","p_4"
+            ] },
+        "p_1_2": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_1","b_2","p_5"
+            ] },
+        "p_1_3": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_1","p_1"
+            ] },
+        "p_1_4": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_1","p_2"
+            ] },
+        "p_1_5": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_1","p_3"
+            ] },
+        "p_2_1": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_3","1","b_4","b_5","b_6", "2", "b_7", "3","4","5", "b_8", "b_9", "b_10", "6", "b_11", "7", "8", "9","b_12", "b_13" 
+            ] },
+        "p_3_1": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_14","10","b_15","11","12", "13", "b_16", "b_17","b_18","14", "b_19", "15", "16", "17", "b_20", "b_21", "b_22"
+            ] },
+        "p_4_1": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_23","18","b_24","19","20", "b_25", "21", "b_26","b_27","22", "b_28", "23", "24", "25", "b_29", "b_30"
+            ] },
+        "p_5_1": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_31","b_32","26","27","b_33", "28", "b_34", "b_35","b_36","29", "30", "b_37", "31", "b_38"
+            ] },
+        "p_6_1": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_39","32","b_40","33","34", "b_41", "b_42", "b_43","35","b_44", "b_45"
+            ] },
+
+       
+        "p_7_1": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_47", "b_50", "b_49", "37","36", "b_46"
+            ] },
+         "p_7_2": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_47", "b_50", "b_51", "38","39",  "b_48"
+            ] },
+        "p_7_3": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_47", "b_50", "b_49", "40","44",  "43", "b_52"
+            ] },
+        "p_7_4": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_47", "b_50", "b_51", "b_53","41",  "42", "b_54"
+            ] },
+        "p_7_5": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_47", "b_50", "b_51", "b_53","45", "46", "b_55"
+            ] },
+        "p_8_1": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_56", "b_57", "47"
+            ] }
+    },
+    "paths": {
+        "None" : { 
+            "p_1_1a": { 
+                "highlight": false, 
+                "nodes":[] }
+            }
+    },
+	"boosts": {
+        "1": ["lifetransfer", "enhancedcrits"],
+        "2": ["lifetransfer", "buffduration:40"],
+        "3": ["lifetransfer", "stupefy"],
+        "4": ["lifetransfer", "debilitate"],
+        "5": ["lifetransfer", "power:100"],
+        "6": ["lifetransfer", "immune"],
+        "7": ["lifetransfer", "eresistance:80"],
+        "8": ["lifetransfer", "armor:90"],
+        "9": ["lifetransfer", "stunimmune"],
+
+        "10": ["vigor", "recovery:150"],
+        "11": ["vigor", "mystic_ward:80"],
+        "12": ["vigor", "presistance:80"],
+        "13": ["vigor", "enhancedabilities"],
+        "14": ["vigor", "baneofdamballah"],
+        "15": ["vigor"],
+        "16": ["vigor", "enhancedbleed"],
+        "17": ["vigor", "replicate"],
+
+        "18": ["rage", "godslayer"],
+        "19": ["rage", "agressive"],
+        "20": ["rage", "enhancedfury"],
+        "21": ["rage", "rollingthunder"],
+        "22": ["rage", "heavyhanded", "armor:45"],
+        "23": ["rage", "critdmg100"],
+        "24": ["rage", "resonancecascade"],
+        "25": ["rage", "critrate:28"],
+        
+        "26": ["mystic_ward:95", "enhancedbleed"],
+        "27": ["enhancedpoison", "enhancedbleed"],
+        "28": ["enhancedweakening:40", "enhancedpoison"],
+        "29": ["stunimmune", "enhancedpoison"],
+        "30": ["enhancedcrits", "enhancedbleed"],
+        "31": ["bloodletting", "enhancedbleed"],
+
+        "32": ["featsofpower", "outlast"],
+        "33": ["featsofpower", "enhancedsp2"],
+        "34": ["featsofpower", "limber_percent:10"],
+        "35": ["featsofpower", "shatter"],
+
+
+        "36": ["bane"],
+        "39": ["bane"],
+        "42": ["bane"],
+        "46": ["bane"],
+        "47": [ "maximumoverdrive", "enhancedsp2", "critrate:28", "critdmg100", "health:200", "thirdspecial", "boost:300", "iso:50" ]
+    },
+    "boosts_save": {
+        "1": ["boost:50", "attack:50", "enhancedfury"]
+	},
+
+    "links": {
+   },  
+	"links_save": {
+         "b_1_1": ["b_1", "b_1", ["boost:100"]]
+    },  
+    "portal_links": {
+        "b_1_1": ["p_5", "b_3", ["Life Transfer"] ],
+        "b_2_1": ["p_4", "b_14", ["Vitality"] ],
+        "b_3_1": ["p_1", "b_23", ["Rage"] ],
+        "b_4_1": ["p_2", "b_31", ["Poison & Bleed"] ],
+        "b_5_1": ["p_3", "b_39", ["Power"] ],
+        "b_6_1": ["b_13", "b_47"],
+        "b_7_1": ["b_22", "b_47"],
+        "b_8_1": ["b_30", "b_47"],
+        "b_9_1": ["b_38", "b_47"],
+        "b_10_1": ["b_45", "b_47"],
+        "b_11_1": ["b_46", "b_56"],
+        "b_12_1": ["b_48", "b_56"],
+        "b_13_1": ["b_52", "b_56"],
+        "b_14_1": ["b_54", "b_56"]
+    },
+        
+    "champs": [
+        { "node":"1", "champID":"karnak", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"2", "champID":"loki", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"3", "champID":"gwenpool", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"4", "champID":"yondu", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"5", "champID":"ghost_rider", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"6", "champID":"falcon", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"7", "champID":"beast", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"8", "champID":"vision", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"9", "champID":"quake", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"10", "champID":"venom", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"11", "champID":"angela", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"12", "champID":"voodoo", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"13", "champID":"wolverine", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"14", "champID":"wolverine_x23", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"15", "champID":"superior_ironman", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"16", "champID":"blade", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"17", "champID":"deadpool", "stars":"5", "rank":"5", "siglevel":"1"},
+
+        { "node":"18", "champID":"black_widow", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"19", "champID":"rhino", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"20", "champID":"ms_marvel", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"21", "champID":"punisher", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"22", "champID":"groot", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"23", "champID":"grootking", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"24", "champID":"gamora", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"25", "champID":"star_lord", "stars":"5", "rank":"5", "siglevel":"1"},
+
+
+        { "node":"26", "champID":"carnage", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"27", "champID":"archangel", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"28", "champID":"antman", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"29", "champID":"abomination", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"30", "champID":"hood", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"31", "champID":"deadpool_x", "stars":"5", "rank":"5", "siglevel":"1"},
+
+        { "node":"32", "champID":"dormammu", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"33", "champID":"mordo", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"34", "champID":"nebula", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"35", "champID":"magik", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"36", "champID":"iron_fist", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"37", "champID":"spidergwen", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"38", "champID":"daredevil", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"39", "champID":"hulk", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"40", "champID":"juggernaut", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"41", "champID":"cap_america_wwii", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"42", "champID":"storm", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"43", "champID":"cable", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"44", "champID":"dr_strange", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"45", "champID":"thor", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"46", "champID":"docock", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"47", "champID":"punisher2099", "stars":"5", "rank":"5", "siglevel":"1"}
+
+    ],
+
+
+	"prefered_champs": {
+	}
+}

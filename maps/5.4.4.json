@@ -1,0 +1,37 @@
+{
+    "style": "lab", 
+    "info": " Thanks to JoshSizemore, WARIC9K9, Clobberin'Time & Dragon for the the map data",
+	"nodes": {
+		
+		"b_1": {"pos": "0|0", "number":"b_2", "type": 0 }
+	},
+	"base_paths": {
+        "p_1_1a": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_1","b_1"
+            ] }
+    },
+    "paths": {
+        "None" : { 
+            "p_1_1a": { 
+                "highlight": false, 
+                "nodes":[] }
+            }
+    },
+	"boosts": {
+        "1": ["boost:50", "attack:50", "enhancedfury"]
+	},
+
+	"links": {
+         "b_1_1": ["b_1", "b_1", ["boost:100"]]
+    },  
+    "portal_links": {
+        "b_1_1": ["b_1", "b_1"]
+    },
+        
+
+	"prefered_champs": {
+	}
+}

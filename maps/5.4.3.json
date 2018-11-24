@@ -1,0 +1,292 @@
+{
+    "style": "lab", 
+    "info": " Thanks to JoshSizemore, WARIC9K9, Clobberin'Time & Dragon for the the map data",
+	"nodes": {
+		
+        "b_1": {"pos": "0|26", "number":"b_1", "type": 0 },
+        "b_2": {"pos": "0|24", "number":"b_2", "type": 0 },
+
+        "1": {"pos": "-2|24", "number":"1", "type": 1 },
+        "2": {"pos": "-4|24", "number":"2", "type": 1 },
+        "b_3": {"pos": "-6|24", "number":"b_2", "type": 0 },
+        "p_1": {"pos": "-8|24", "number":"p_1", "type": 2 },
+
+        "3": {"pos": "2|24", "number":"3", "type": 1 },
+        "4": {"pos": "4|24", "number":"4", "type": 1 },
+        "b_4": {"pos": "6|24", "number":"b_2", "type": 0 },
+        "p_2": {"pos": "8|24", "number":"p_2", "type": 2 },
+
+        "5": {"pos": "0|22", "number":"5", "type": 1 },
+        "6": {"pos": "0|20", "number":"6", "type": 1 },
+        "b_5": {"pos": "0|18", "number":"b_5", "type": 0 },
+        "p_3": {"pos": "2|18", "number":"p_3", "type": 2 },
+
+        "b_6": {"pos": "12|26", "number":"b_6", "type": 3 },
+        "7": {"pos": "12|24", "number":"7", "type": 1 },
+        "b_7": {"pos": "12|22", "number":"b_7", "type": 0 },
+        "8": {"pos": "12|20", "number":"8", "type": 1 },
+        "9": {"pos": "12|18", "number":"9", "type": 1 },
+        "b_8": {"pos": "12|16", "number":"p_3", "type": 0 },
+
+        "10": {"pos": "14|16", "number":"10", "type": 1 },
+        "b_9": {"pos": "16|16", "number":"b_9", "type": 0 },
+        "11": {"pos": "16|18", "number":"11", "type": 1 },
+        "12": {"pos": "16|20", "number":"12", "type": 1 },
+        "p_4": {"pos": "16|22", "number":"p_4", "type": 2 },
+
+
+        "13": {"pos": "10|16", "number":"13", "type": 1 },
+        "b_10": {"pos": "8|16", "number":"b_10", "type": 0 },
+        "14": {"pos": "6|16", "number":"14", "type": 1 },
+        "15": {"pos": "6|14", "number":"15", "type": 1 },
+        "b_11": {"pos": "6|12", "number":"b_11", "type": 0 },
+        "p_5": {"pos": "6|10", "number":"p_5", "type": 2 },
+
+        
+
+        "b_12": {"pos": "0|12", "number":"b_12", "type": 3 },
+        "16": {"pos": "0|10", "number":"16", "type": 1 },
+        "17": {"pos": "0|8", "number":"17", "type": 1 },
+        "b_13": {"pos": "2|8", "number":"b_13", "type": 0 },
+        "b_14": {"pos": "4|8", "number":"b_14", "type": 0 },
+        "18": {"pos": "4|10", "number":"18", "type": 1 },
+        "b_15": {"pos": "4|12", "number":"b_15", "type": 0 },
+        "19": {"pos": "4|14", "number":"19", "type": 1 },
+        "20": {"pos": "4|16", "number":"20", "type": 1 },
+        "p_6": {"pos": "2|16", "number":"p_6", "type": 2 },
+        
+        "21": {"pos": "4|6", "number":"21", "type": 1 },
+        "b_16": {"pos": "4|4", "number":"b_16", "type": 0 },
+        "b_17": {"pos": "4|2", "number":"b_17", "type": 0 },
+        "22": {"pos": "2|2", "number":"22", "type": 1 },
+        "23": {"pos": "0|2", "number":"23", "type": 1 },
+        "p_7": {"pos": "-2|2", "number":"p_7", "type": 2 },
+
+
+
+
+        "b_18": {"pos": "16|10", "number":"b_18", "type": 3 },
+        "24": {"pos": "14|10", "number":"24", "type": 1 },
+        "b_19": {"pos": "12|10", "number":"b_19", "type": 0 },
+        "25": {"pos": "10|10", "number":"25", "type": 1 },
+        "b_20": {"pos": "8|10", "number":"b_20", "type": 0 },
+        "26": {"pos": "8|8", "number":"26", "type": 1 },
+        "b_21": {"pos": "8|6", "number":"b_21", "type": 0 },
+        "27": {"pos": "10|6", "number":"27", "type": 1 },
+        "b_22": {"pos": "12|6", "number":"b_22", "type": 0 },
+        "28": {"pos": "12|4", "number":"28", "type": 1 },
+        "29": {"pos": "12|2", "number":"29", "type": 1 },
+        "p_8": {"pos": "12|0", "number":"p_8", "type": 2 },
+        
+        "30": {"pos": "8|4", "number":"30", "type": 1 },
+        "b_23": {"pos": "8|2", "number":"b_23", "type": 0 },
+        "31": {"pos": "8|0", "number":"31", "type": 1 },
+        "32": {"pos": "6|0", "number":"32", "type": 1 },
+        "p_9": {"pos": "4|0", "number":"p_9", "type": 2 },
+
+        "b_24": {"pos": "-14|24", "number":"b_24", "type": 3 },
+        "b_25": {"pos": "-14|22", "number":"b_25", "type": 0 },   
+        "33": {"pos": "-14|20", "number":"33", "type": 1 },
+        "34": {"pos": "-12|20", "number":"34", "type": 1 },
+        "35": {"pos": "-10|20", "number":"35", "type": 1 },
+        "b_26": {"pos": "-8|20", "number":"b_26", "type": 0 },
+        "p_10": {"pos": "-6|20", "number":"p_10", "type": 2 },
+
+
+        "b_27": {"pos": "-14|18", "number":"b_27", "type": 3 },   
+        "36": {"pos": "-12|18", "number":"36", "type": 1 },
+        "37": {"pos": "-10|18", "number":"37", "type": 1 },
+        "p_11": {"pos": "-7|18", "number":"p_11", "type": 2 },
+
+        "b_28": {"pos": "-14|12", "number":"b_28", "type": 3 },
+        "b_29": {"pos": "-14|14", "number":"b_29", "type": 0 },   
+        "38": {"pos": "-14|16", "number":"38", "type": 1 },
+        "39": {"pos": "-12|16", "number":"39", "type": 1 },
+        "b_30": {"pos": "-10|16", "number":"b_30", "type": 0 },
+        "p_12": {"pos": "-8|16", "number":"p_12", "type": 2 },
+
+        "b_31": {"pos": "-6|2", "number":"b_31", "type": 3 },
+        "b_32": {"pos": "-8|2", "number":"b_32", "type": 0 },   
+        "b_33": {"pos": "-10|2", "number":"b_33", "type": 0 },   
+        "b_34": {"pos": "-12|2", "number":"b_34", "type": 0 },   
+        "40": {"pos": "-14|2", "number":"40", "type": 1 },
+
+        "41": {"pos": "-8|4", "number":"41", "type": 1 },
+        "b_35": {"pos": "-10|4", "number":"b_35", "type": 0 },   
+        "b_36": {"pos": "-12|4", "number":"b_36", "type": 0 },   
+        "b_37": {"pos": "-14|4", "number":"b_37", "type": 0 },   
+       
+        "42": {"pos": "-8|0", "number":"42", "type": 1 },
+        "b_38": {"pos": "-10|0", "number":"b_38", "type": 0 },   
+        "b_39": {"pos": "-12|0", "number":"b_39", "type": 0 },   
+        "b_40": {"pos": "-14|0", "number":"b_40", "type": 0 }
+       
+	},
+	"base_paths": {
+        "p_1_1a": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_1","b_2", "1", "2", "b_3", "p_1"
+            ] },
+        "p_1_1b": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_1","b_2", "3", "4", "b_4", "p_2"
+            ] },
+        "p_1_1c": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_1","b_2", "5", "6", "b_5", "p_3"
+            ] },
+
+        "p_2_1a": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_6","7", "b_7", "8", "9", "b_8", "10", "b_9", "11", "12", "p_4"
+            ] },
+        "p_2_1b": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_6","7", "b_7", "8", "9", "b_8", "13", "b_10", "14", "15", "b_11", "p_5"
+            ] },
+        "p_3_1a": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_12","16", "17", "b_13","b_14", "18", "b_15", "19", "20", "p_6"
+            ] },
+        "p_3_1b": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_12","16", "17", "b_13","b_14", "21", "b_16", "b_17", "22","23", "p_7"
+            ] },
+        "p_4_1": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_18","24", "b_19","25", "b_20", "26", "b_21", "27", "b_22","28","29", "p_8"
+            ] },
+        "p_4_2": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_18","24", "b_19","25", "b_20", "26", "b_21", "30", "b_23","31","32", "p_9"
+            ] },
+        "p_5_1": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_24","b_25","33", "34", "35", "b_26", "p_10"
+            ] },
+        "p_5_2": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_27","36", "37", "p_11"
+            ] },
+        "p_5_3": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_28","b_29","38", "39", "b_30", "p_12"
+            ] },
+        "p_6_1": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_31","b_32","b_33", "b_34", "40"
+            ] },
+        "p_6_2": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_31","b_32","41", "b_35","b_36", "b_37", "40"
+            ] },
+        "p_6_3": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_31","b_32","42", "b_38","b_39", "b_40", "40"
+            ] }
+    },
+    "paths": {
+        "None" : { 
+            "p_1_1a": { 
+                "highlight": false, 
+                "nodes":[] }
+            }
+    },
+	"boosts": {
+        "1": ["boost:50", "attack:50", "enhancedfury"]
+	},
+
+	"links": {
+    },  
+    "portal_links": {
+        "b_1_1": ["p_1", "b_6"],
+        "b_2_1": ["p_2", "b_18"],
+        "b_3_1": ["p_3", "b_12"],
+        "b_4_1": ["p_4", "b_24"],
+        "b_5_1": ["p_5", "b_24"],
+        "b_6_1": ["p_6", "b_28"],
+        "b_7_1": ["p_7", "b_28"],
+        "b_8_1": ["p_8", "b_27"],
+        "b_9_1": ["p_9", "b_27"],
+        "b_10_1": ["p_10", "b_31"],
+        "b_11_1": ["p_11", "b_31"],
+        "b_12_1": ["p_12", "b_31"]
+    },
+        
+    "champs": [
+        { "node":"1", "champID":"red_hulk", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"2", "champID":"ms_marvel", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"3", "champID":"thor", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"4", "champID":"quake", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"5", "champID":"joe_fixit", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"6", "champID":"angela", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"7", "champID":"yellowjacket", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"8", "champID":"docock", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"9", "champID":"star_lord", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"10", "champID":"black_widow", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"11", "champID":"antman", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"12", "champID":"spidergwen", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"13", "champID":"rogue", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"14", "champID":"moonknight", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"15", "champID":"ghost_rider", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"16", "champID":"electro", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"17", "champID":"voodoo", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"18", "champID":"kingpin", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"19", "champID":"dr_strange", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"20", "champID":"loki", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"21", "champID":"rhino", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"22", "champID":"cap_america", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"23", "champID":"nebula", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"24", "champID":"iceman", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"25", "champID":"beast", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"26", "champID":"iron_fist", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"27", "champID":"civil_warrior", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"28", "champID":"vulture", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"29", "champID":"warmachine", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"30", "champID":"u_colossus", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"31", "champID":"wintersoldier", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"32", "champID":"juggernaut", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"33", "champID":"daredevil", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"34", "champID":"nightcrawler", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"35", "champID":"elektra", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"36", "champID":"hulk", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"37", "champID":"rocket", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"38", "champID":"hood", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"39", "champID":"cable", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"40", "champID":"hela", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"41", "champID":"medusa", "stars":"5", "rank":"5", "siglevel":"1"},
+        { "node":"42", "champID":"mordo", "stars":"5", "rank":"5", "siglevel":"1"}],
+   
+	"prefered_champs": {
+	}
+}

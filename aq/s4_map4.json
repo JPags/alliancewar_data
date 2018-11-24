@@ -1,0 +1,334 @@
+{
+	"p_1_1": [
+		[0, 0],
+		[0, 2],
+		[-4, 2],
+		[-6, 2, "symbioid_cosmic", "co"],
+		[-11, 7, "symbioid_talent", "ta"],
+		[-11, 9, "rocket", "te"],
+		[-11, 11],
+		[-9, 13, "red_hulk", "sc"],
+		[-4, 13],
+		[0, 13, "quake", "sc", ["boost200", "health200", "healblock_special", "strike", "power150"]]
+	],
+	"p_1_2": [
+		[0, 0],
+		[0, 2],
+		[-4, 2],
+		[-4, 4, "symbioid_tech", "te"],
+		[-4, 7, "hulkbuster", "te"],
+		[-6, 7, "agent_venom", "ta"],
+		[-6, 9, "wintersoldier", "ta"],
+		[-4, 11, "hyperion", "co"],
+		[-4, 13],
+		[0, 13, "storm", "mu", ["boost200", "health200", "healblock_special", "strike", "power150"]]
+	],
+	"p_1_3": [
+		[0, 0],
+		[0, 2],
+		[0, 4, "symbioid_mystic", "my"],
+		[0, 7, "gambit", "mu"],
+		[0, 9, "spiderman", "sc"],
+		[0, 11],
+		[0, 13, "storm", "mu", ["boost200", "health200", "healblock_special", "strike", "power150"]]
+	],
+	"p_1_4": [
+		[0, 0],
+		[0, 2],
+		[4, 2],
+		[4, 4, "symbioid_talent", "ta"],
+		[4, 7, "dr_strange", "my"],
+		[6, 7, "yellowjacket", "sc"],
+		[6, 9, "cap_marvel", "co"],
+		[4, 11, "magik", "my"],
+		[4, 13],
+		[0, 13, "storm", "mu", ["boost200", "health200", "healblock_special", "strike", "power150"]]
+	],
+	"p_1_5": [
+		[0, 0],
+		[0, 2],
+		[4, 2],
+		[6, 2, "symbioid_science", "sc"],
+		[11, 7, "symbioid_science", "sc"],
+		[11, 9, "juggernaut", "my"],
+		[11, 11],
+		[9, 13, "wolverine_x23", "mu"],
+		[4, 13],
+		[0, 13, "storm", "mu", ["boost200", "health200", "healblock_special", "strike", "power150"]]
+	],
+	
+	
+	"p_2_1": [
+		[0, 13],
+		[0, 16],
+		[-3, 16, "symbioid_mystic", "my"],
+		[-3, 18, "symbioid_mystic", "my"],
+		[-7, 18, "spiderman", "sc"],
+		[-11, 18, "symbioid_cosmic", "co"],
+		[-15, 22, "symbioid_science", "sc"],
+		[-15, 24, "hyperion", "co"],
+		[-13, 26, "symbioid_cosmic", "co"],
+		[-10, 26, "hulkbuster", "te"],
+		[-7, 26],
+		[-5, 28, "rocket", "te"],
+		[0, 28, "storm", "mu", ["boost200", "health300", "healblock_special", "strike", "power200"]]
+	],
+	"p_2_2": [
+		[0, 13],
+		[0, 16],
+		[-3, 16, "symbioid_mystic", "my"],
+		[-3, 18, "symbioid_mystic", "my"],
+		[-7, 18, "spiderman", "sc"],
+		[-7, 22, "red_hulk", "sc"],
+		[-7, 26],
+		[-5, 28, "rocket", "te"],
+		[0, 28, "storm", "mu", ["boost200", "health300", "healblock_special", "strike", "power200"]]
+	],
+	"p_2_3": [
+		[0, 13],
+		[0, 16],
+		[0, 18, "symbioid_mystic", "my"],
+		[0, 20],
+		[-4, 20, "drax", "co"],
+		[-4, 22, "symbioid_talent", "ta"],
+		[-2, 24, "symbioid_science", "sc"],
+		[0, 24, "juggernaut", "my"],
+		[0, 26],
+		[0, 28, "storm", "mu", ["boost200", "health300", "healblock_special", "strike", "power200"]]
+	],
+	"p_2_4": [
+		[0, 13],
+		[0, 16],
+		[0, 18, "symbioid_mystic", "my"],
+		[0, 20],
+		[4, 20, "agent_venom", "ta"],
+		[4, 22, "symbioid_cosmic", "co"],
+		[2, 24, "symbioid_talent", "ra"],
+		[0, 24, "juggernaut", "my"],
+		[0, 26],
+		[0, 28, "storm", "mu", ["boost200", "health300", "healblock_special", "strike", "power200"]]
+	],
+	"p_2_5": [
+		[0, 13],
+		[0, 16],
+		[3, 16, "symbioid_science", "sc"],
+		[3, 18, "symbioid_tech", "te"],
+		[7, 18, "dr_strange", "my"],
+		[7, 22, "magik", "my"],
+		[7, 26],
+		[5, 28, "vision", "te"],
+		[0, 28, "storm", "mu", ["boost200", "health300", "healblock_special", "strike", "power200"]]
+	],
+	"p_2_6": [
+		[0, 13],
+		[0, 16],
+		[3, 16, "symbioid_science", "sc"],
+		[3, 18, "symbioid_tech", "te"],
+		[7, 18, "dr_strange", "my"],
+		[11, 18, "symbioid_talent", "ta"],
+		[15, 22, "wintersoldier", "ta"],
+		[15, 24, "karnak", "ta"],
+		[13, 26, "symbioid_talent", "ta"],
+		[10, 26, "hulkbuster", "te"],
+		[7, 26],
+		[5, 28, "vision", "te"],
+		[0, 28, "storm", "mu", ["boost200", "health300", "healblock_special", "strike", "power200"]]
+	],
+
+
+	"p_3_1": [
+		[0, 28],
+		[0, 31],
+		[-4, 31, "symbioid_talent", "ta"],
+		[-6, 33],
+		[-11, 33, "symbioid_cosmic", "co"],
+		[-16, 38, "drax", "co"],
+		[-16, 43, "cap_marvel", "co"],
+		[-13, 43],
+		[-11, 41, "karnak", "ta"],
+		[-8, 41, "red_hulk", "sc"],
+		[-8, 43],
+		[-10, 45, "spiderman_black", "co"],
+		[-8, 47, "hyperion", "co"],
+		[-4, 47, "symbioid_cosmic", "co"],
+		[0, 47, "symbioid_talent", "ta", ["global|iso25"]],
+		[0, 49, "dormammu", "my", ["boost425", "health100", "healblock"]]
+	],
+	"p_3_2": [
+		[0, 28],
+		[0, 31],
+		[-4, 31, "symbioid_talent", "ra"],
+		[-6, 33],
+		[-6, 37],
+		[-8, 37, "spiderman", "sc"],
+		[-8, 39],
+		[-8, 41, "red_hulk", "sc"],
+		[-8, 43],
+		[-10, 45, "spiderman_black", "co"],
+		[-8, 47, "hyperion", "co"],
+		[-4, 47, "symbioid_cosmic", "co"],
+		[0, 47, "symbioid_talent", "ta", ["global|iso25"]],
+		[0, 49, "kang", "te", ["boost425", "health100", "healblock"]]
+	],
+	"p_3_3": [
+		[0, 28],
+		[0, 31],
+		[0, 35, "symbioid_talent", "ta"],
+		[0, 37, "agent_venom", "ta"],
+		[-2, 37],
+		[-4, 39, "wolverine_x23", "mu"],
+		[-4, 42],
+		[-4, 44, "gambit", "mu"],
+		[-4, 47, "symbioid_cosmic", "co"],
+		[0, 47, "symbioid_talent", "ta", ["global|iso25"]],
+		[0, 49, "kang", "te", ["boost425", "health100", "healblock"]]
+	],
+
+	"p_3_4": [
+		[0, 28],
+		[0, 31],
+		[0, 35, "symbioid_talent", "ra"],
+		[0, 37, "agent_venom", "ta"],
+		[0, 39, "karnak", "ta"],
+		[0, 42],
+		[0, 44, "wintersoldier", "ta"],
+		[0, 47, "symbioid_talent", "ta", ["global|iso25"]],
+		[0, 49, "kang", "te", ["boost425", "health100", "healblock"]]
+	],
+
+	"p_3_5": [
+		[0, 28],
+		[0, 31],
+		[0, 35, "symbioid_talent", "ta"],
+		[0, 37, "agent_venom", "ta"],
+		[2, 37],
+		[4, 39, "magik", "my"],
+		[4, 42],
+		[4, 44, "juggernaut", "my"],
+		[4, 47, "symbioid_science", "sc"],
+		[0, 47, "symbioid_talent", "ta", ["global|iso25"]],
+		[0, 49, "kang", "te", ["boost425", "health100", "healblock"]]
+	],
+	"p_3_6": [
+		[0, 28],
+		[0, 31],
+		[4, 31, "symbioid_science", "sc"],
+		[6, 33],
+		[6, 37],
+		[8, 37, "cyclops", "te"],
+		[8, 39],
+		[8, 41, "wolverine_x23", "mu"],
+		[8, 43],
+		[10, 45, "symbioid_science", "sc"],
+		[8, 47, "rocket", "te"],
+		[4, 47, "symbioid_science", "sc"],
+		[0, 47, "symbioid_talent", "ta", ["global|iso25"]],
+		[0, 49, "kang", "te", ["boost425", "health100", "healblock"]]
+	],
+	"p_3_7": [
+		[0, 28],
+		[0, 31],
+		[4, 31, "symbioid_science", "sc"],
+		[6, 33],
+		[11, 33, "symbioid_science", "sc"],
+		[16, 38, "red_hulk", "sc"],
+		[16, 43, "spiderman", "sc"],
+		[13, 43],
+		[11, 41, "yellowjacket", "sc"],
+		[8, 41, "wolverine_x23", "mu"],
+		[8, 43],
+		[10, 45, "symbioid_science", "sc"],
+		[8, 47, "rocket", "te"],
+		[4, 47, "symbioid_science", "sc"],
+		[0, 47, "symbioid_talent", "ta", ["global|iso25"]],
+		[0, 49, "kang", "te", ["boost425", "health100", "healblock"]]
+	],
+	
+	
+	"b_1_1": [0, 4, -4, 7, ["power200"]],
+	"b_1_2": [0, 4, -6, 9, ["power200"]],
+	"b_1_3": [0, 4, 6, 9, ["power200"]],
+	"b_1_4": [0, 4, 4, 7, ["power200"]],
+
+	"b_1_5": [-6, 9, -11, 7, ["boost300", "healblock"]],
+	"b_1_6": [-6, 9, -11, 9, ["boost300", "healblock"]],
+
+	"b_1_7": [6, 9, 11, 7, ["boost300", "healblock"]],
+	"b_1_8": [6, 9, 11, 9, ["boost300", "healblock"]],
+
+	"b_1_9": [-11, 9, -9, 13, ["healblock", "health200"]],
+	"b_1_10": [-11, 9, -4, 11, ["healblock", "health200"]],
+	"b_1_11": [-11, 9, 9, 13, ["healblock", "health200"]],
+	"b_1_12": [-11, 9, 4, 11, ["healblock", "health200"]],
+	"b_1_13": [-11, 9, 0, 9, ["healblock", "health200"]],
+
+	"b_1_14": [11, 9, 9, 13, ["healblock", "attack200"]],
+	"b_1_15": [11, 9, 4, 11, ["healblock", "attack200"]],
+	"b_1_16": [11, 9, -9, 13, ["healblock", "attack200"]],
+	"b_1_17": [11, 9, -4, 11, ["healblock", "attack200"]],
+	"b_1_18": [11, 9, 0, 9, ["healblock", "attack200"]],
+
+	"b_1_19": [-9, 13, 0, 13, ["poison"]],
+	"b_1_20": [-4, 11, 0, 13, ["health100"]],
+	"b_1_21": [0, 9, 0, 13, ["boost100"]],
+	"b_1_22": [4, 11, 0, 13, ["attack100"]],
+	"b_1_23": [9, 13, 0, 13, ["power200", "critdmg100", "critrate28"]],
+
+
+	"b_2_1": [-7, 22, -11, 18, ["health200"]],
+	"b_2_2": [-7, 22, -15, 22, ["health200"]],
+
+	"b_2_3": [7, 22, 11, 18, ["boost100"]],
+	"b_2_4": [7, 22, 15, 22, ["boost100"]],
+
+	"b_2_5": [-10, 26, -5, 28, ["boost200", "poison", "healblock"]],
+	"b_2_6": [10, 26, 5, 28, ["bleed", "boost200", "healblock"]],
+
+	"b_2_7": [-4, 22, -10, 26, ["power200"]],
+	"b_2_8": [-4, 22, -7, 22, ["power200"]],
+
+	"b_2_9": [-3, 18, -4, 22, ["power200", "healblock"]],
+	"b_2_10": [-3, 18, 0, 24, ["power200", "healblock"]],
+	"b_2_11": [-3, 18, 4, 22, ["power200", "healblock"]],
+
+	"b_2_12": [3, 18, 4, 22, ["health200", "regen", "armor20", "healblock"]],
+	"b_2_13": [3, 18, 0, 24, ["health200", "regen", "armor20", "healblock"]],
+	"b_2_14": [3, 18, -4, 22, ["health200", "regen", "armor20", "healblock"]],
+
+	"b_2_15": [-5, 28, 0, 28, ["boost200", "critdmg100", "critrate28"]],
+	"b_2_16": [0, 24, 0, 28, ["boost200", "power200"]],
+	"b_2_17": [5, 28, 0, 28, ["boost200", "strike"]],
+
+	"b_2_18": [4, 22, 7, 22, ["power200"]],
+
+
+	"b_3_1": [-8, 37, -11, 33, ["health200", "healblock"]],
+	"b_3_2": [-8, 37, -16, 38, ["health200", "healblock"]],
+	"b_3_3": [-8, 37, -16, 43, ["health200", "healblock"]],
+
+	"b_3_4": [8, 37, 11, 33, ["health200", "healblock"]],
+	"b_3_5": [8, 37, 16, 38, ["health200", "healblock"]],
+	"b_3_6": [8, 37, 16, 43, ["health200", "healblock"]],
+
+	"b_3_7": [-11, 41, -4, 39, ["boost300"]],
+	"b_3_8": [-11, 41, 0, 39, ["boost300"]],
+	"b_3_9": [-11, 41, 4, 39, ["boost300"]],
+
+	"b_3_10": [11, 41, 4, 39, ["power200"]],
+	"b_3_11": [11, 41, 0, 39, ["power200"]],
+	"b_3_12": [11, 41, -4, 39, ["power200"]],
+
+	"b_3_13": [-4, 39, -4, 44, ["attack200", "healblock"]],
+	"b_3_14": [-4, 39, 0, 44, ["attack200", "healblock"]],
+	"b_3_15": [-4, 39, 4, 44, ["attack200", "healblock"]],
+
+	"b_3_16": [4, 39, 4, 44, ["health200", "healblock"]],
+	"b_3_17": [4, 39, 0, 44, ["health200", "healblock"]],
+	"b_3_18": [4, 39, -4, 44, ["health200", "healblock"]],
+
+	"b_3_19": [-8, 47, 0, 49, ["linked"]],
+	"b_3_20": [-4, 44, 0, 49, ["health300"]],
+	"b_3_21": [0, 44, 0, 49, ["boost300"]],
+	"b_3_22": [4, 44, 0, 49, ["attack300"]],
+	"b_3_23": [8, 47, 0, 49, ["linked"]]
+}

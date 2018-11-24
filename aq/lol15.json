@@ -1,0 +1,71 @@
+{"style": "lab",
+	"p_1_1": [
+		[0, 12],
+
+
+		[0, 8, "red_hulk", "sc"],
+
+
+		[0, 4, "oldman_logan", "mu"],
+
+		[0, 1, "elektra", "ta"],
+
+		[4, 1, "ms_marvel", "co"],
+		[12, 1],
+
+		[12, 4, "u_colossus", "my"],
+
+		[12, 9, "the_vision", "te"],
+
+		[12, 13, "spidergwen", "sc"],
+
+		[12, 17, "cyclops", "mu"],
+		[12, 25],
+		
+		[6, 25, "falcon", "ta"],
+
+		[2, 25, "gamora", "co"],
+
+		[-2, 25, "magik", "my"],
+
+		[-6, 25, "warmachine", "te"],
+		[-12, 25],
+
+		[-12, 18, "antman", "sc"],
+
+		[-12, 13, "deadpool_x", "mu"],
+
+		[-12, 8, "daredevil", "ta"],
+		[-12, 1],
+
+		[-2, 1, "venom", "co"],
+
+		[-2, 4, "iron_fist", "my"],
+
+		[-2, 8, "civil_warrior", "te"],
+		[-2, 13],
+
+		[-1, 13, "maestro", "ra", ["global|mol", "global|enrage", "global|dulled", "global|limber10"]]
+	],
+	"p_1_2": [
+		[0, 12],
+		[0, 11],
+		[0, 10],
+		[0, 9],
+		[1,9],
+		[1,8, "star_lord", "te"],
+		[1,3],
+		[2,3],
+		[2,4],
+		[3,4, "thor_jane_foster", "my"],
+		[3,3],
+		[7,3],
+		[7,6],
+		[2,6],
+		[2,10],
+		[7,10],
+		[7,13, "daredevil_netflix", "ta"],
+		[7,16],
+		[3,16]
+	]
+}

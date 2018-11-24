@@ -1,0 +1,265 @@
+{
+
+	"nodes": {
+		"b_1": {"pos": "0|0", "number":"b_1", "type": 0 },
+		"b_2": {"pos": "-10|2", "number":"b_2", "type": 0 },
+		"1": { "pos": "-8|2", "number":"1", "type": 1 , "champ": { "name": "karnak", "class": "ta", "stars": 4, "rank": 3, "siglevel": 0} },
+		"2": { "pos": "-6|2", "number":"2", "type": 1  , "champ": { "name": "symbioid", "class": "co", "stars": 4, "rank": 3, "siglevel": 0} },		
+		"3": { "pos": "-4|2", "number":"3", "type": 1, "champ": { "name": "symbioid", "class" :"my", "stars": 4, "rank": 3, "siglevel": 0 } } ,
+		"b_3": {"pos": "0|2", "number":"b_3", "type": 0 },
+		"4": { "pos": "4|2", "number":"4", "type": 1, "champ": { "name": "symbioid","class": "mu", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"5": { "pos": "6|2", "number":"5", "type": 1, "champ": { "name": "symbioid","class": "te", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"6": { "pos": "8|2", "number":"6", "type": 1, "champ": { "name":  "cyclops90","class": "mu", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"b_4": {"pos": "10|2", "number":"b_4", "type": 0 },
+		"7": { "pos": "-3|4", "number":"7", "type": 1, "champ": { "name": "symbioid", "class": "ta", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"8": { "pos": "0|4", "number":"8", "type": 1, "champ": { "name": "red_hulk", "class" : "sc", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"9": { "pos": "3|4", "number":"9", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"10": { "pos": "-10|6", "number":"10", "type": 1, "champ": { "name": "spiderman", "class": "sc", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"11": { "pos": "0|6", "number":"11", "type": 1, "champ": { "name": "cap_marvel", "class": "co", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"12": { "pos": "10|6", "number":"12", "type": 1, "champ": { "name": "hyperion","class": "co", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"13": { "pos": "-3|7", "number":"13", "type": 1, "champ": { "name":"symbioid", "class": "ra", "stars": 4, "rank": 3, "siglevel": 0 }   },
+		"14": { "pos": "3|7", "number":"14", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"15": { "pos": "0|8", "number":"15", "type": 1, "champ": { "name":  "juggernaut","class": "my", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"16": { "pos": "-7|9", "number":"16", "type": 1, "champ": { "name": "wolverine","class": "mu", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"b_5": {"pos": "-3|9", "number":"b_5", "type": 0 },		
+		"b_6": {"pos": "3|9", "number":"b_6", "type": 0 },
+		"17": { "pos": "7|9", "number":"17", "type": 1, "champ": { "name": "punisher","class": "ta", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"b_7": {"pos": "0|10", "number":"b_7", "type": 0 },
+		"18": { "pos": "0|12", "number":"18", "type": 1, "champ": { "name": "black_widow", "class": "ta", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"b_8": {"pos": "-10|14", "number":"b_8", "type": 0 },
+		"19": { "pos": "-4|14", "number":"19", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"b_9": {"pos": "0|14", "number":"b_9", "type": 0 },
+		"20": { "pos": "4|14", "number":"20", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"b_10": {"pos": "10|14", "number":"b_10", "type": 0 },
+		"21": { "pos": "-12|16", "number":"21", "type": 1, "champ": { "name": "wolverine","class": "mu", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"22": { "pos": "12|16", "number":"22", "type": 1, "champ": { "name":  "black_panther_cw","class": "ta", "stars": 4, "rank": 3, "siglevel": 0} },
+		"b_11": {"pos": "0|18", "number":"b_11", "type": 0 },
+		"23": { "pos": "-8|20", "number":"23", "type": 1, "champ": { "name": "cap_marvel", "class": "co", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"24": { "pos": "-5|20", "number":"24", "type": 1, "champ": { "name": "cyclops90","class": "mu", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"25": { "pos": "-2|20", "number":"25", "type": 1, "champ": { "name": "beast","class": "mu", "stars": 4, "rank": 3, "siglevel": 0}  },
+		"26": { "pos": "2|20", "number":"26", "type": 1, "champ": { "name": "red_hulk","class": "sc", "stars": 4, "rank": 3, "siglevel": 0}  },
+		"27": { "pos": "5|20", "number":"27", "type": 1, "champ": { "name":  "spiderman","class": "sc", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"28": { "pos": "8|20", "number":"28", "type": 1, "champ": { "name":  "karnak","class": "ta", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"b_12": {"pos": "-5|22", "number":"b_12", "type": 0 },
+		"b_13": {"pos": "5|22", "number":"b_13", "type": 0 },
+		"29": { "pos": "-12|24", "number":"29", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0  } },
+		"30": { "pos": "-5|24", "number":"30", "type": 1, "champ": { "name": "ironman","class": "te", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"31": { "pos": "-2|24", "number":"31", "type": 1, "champ": { "name":  "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"32": { "pos": "2|24", "number":"32", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"33": { "pos": "5|24", "number":"33", "type": 1, "champ": { "name": "juggernaut","class": "my", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"34": { "pos": "12|24", "number":"34", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"b_14": {"pos": "0|26", "number":"b_14", "type": 0 },
+		"35": { "pos": "-8|28", "number":"35", "type": 1 , "champ": { "name": "antman","class": "sc", "stars": 4, "rank": 3, "siglevel": 0} },
+		"36": { "pos": "-4|28", "number":"36", "type": 1, "champ": { "name":  "wolverine","class": "mu", "stars": 4, "rank": 3, "siglevel": 0}  },
+		"37": { "pos": "0|28", "number":"37", "type": 1, "champ": { "name": "groot","class": "co", "stars": 4, "rank": 3, "siglevel": 0}  },
+		"38": { "pos": "4|28", "number":"38", "type": 1, "champ": { "name": "hyperion","class": "co", "stars": 4, "rank": 3, "siglevel": 0}  },
+		"39": { "pos": "8|28", "number":"39", "type": 1, "champ": { "name": "howard","class": "te", "stars": 4, "rank": 3, "siglevel": 0}  },
+		"b_15": {"pos": "-11|32", "number":"b_15", "type": 0 },
+		"40": { "pos": "-9|32", "number":"40", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0}  },
+		"b_16": {"pos": "-5|32", "number":"b_16", "type": 0 },
+		"b_17": {"pos": "0|32", "number":"b_17", "type": 0 },
+		"b_18": {"pos": "5|32", "number":"b_18", "type": 0 },
+		"41": { "pos": "9|32", "number":"41", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 }  },
+		"b_19": {"pos": "11|32", "number":"b_19", "type": 0 },
+		"42": { "pos": "-13|34", "number":"42", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0  } },
+		"43": { "pos": "-5|34", "number":"43", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"44": { "pos": "0|34", "number":"44", "type": 1, "champ": { "name":  "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"45": { "pos": "5|34", "number":"45", "type": 1, "champ": { "name": "symbioid", "class": "ra", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"46": { "pos": "13|34", "number":"46", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 } },		
+		"47": { "pos": "-15|36", "number":"47", "type": 1, "champ": { "name": "symbioid","class": "co", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"b_20": {"pos": "-7|36", "number":"b_20", "type": 0 },
+		"48": { "pos": "0|36", "number":"48", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0  } },
+		"b_21": {"pos": "7|36", "number":"b_21", "type": 0 },
+		"49": { "pos": "15|36", "number":"49", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"50": { "pos": "-13|38", "number":"50", "type": 1, "champ": { "name": "drax","class": "co", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"51": { "pos": "-9|38", "number":"51", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"52": { "pos": "0|38", "number":"52", "type": 1, "champ": { "name": "black_panther_cw","class": "ta", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"53": { "pos": "9|38", "number":"53", "type": 1, "champ": { "name": "symbioid","class": "ra", "stars": 4, "rank": 3, "siglevel": 0  } },
+		"54": { "pos": "13|38", "number":"54", "type": 1, "champ": { "name":   "antman", "class": "sc", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"b_22": {"pos": "-13|40", "number":"b_22", "type": 0 },
+		"55": { "pos": "-9|40", "number":"55", "type": 1, "champ": { "name": "wolverine", "class": "mu", "stars": 4, "rank": 3, "siglevel": 0  }},
+		"b_23": {"pos": "0|40", "number":"b_23", "type": 0 },
+		"56": { "pos": "9|40", "number":"56", "type": 1, "champ": { "name": "howard","class": "te", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"b_24": {"pos": "13|40", "number":"b_24", "type": 0 },
+		"57": { "pos": "-15|42", "number":"57", "type": 1, "champ": { "name": "cap_marvel","class": "co", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"58": { "pos": "-7|42", "number":"58", "type": 1, "champ": { "name": "beast","class": "mu", "stars": 4, "rank": 3, "siglevel": 0  } },
+		"59": { "pos": "0|42", "number":"59", "type": 1, "champ": { "name": "karnak", "class": "ta", "stars": 4, "rank": 3, "siglevel": 0} },
+		"60": { "pos": "7|42", "number":"60", "type": 1, "champ": { "name": "ironman","class": "te", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"61": { "pos": "15|42", "number":"61", "type": 1, "champ": { "name": "red_hulk","class": "sc", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"b_25": {"pos": "-13|44", "number":"b_25", "type": 0 },
+		"62": { "pos": "-7|44", "number":"62", "type": 1, "champ": { "name":"cyclops90","class": "mu", "stars": 4, "rank": 3, "siglevel": 0  } },
+		"63": { "pos": "0|44", "number":"63", "type": 1, "champ": { "name": "punisher","class":"ta", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"64": { "pos": "7|44", "number":"64", "type": 1, "champ": { "name":  "hulkbuster","class": "te", "stars": 4, "rank": 3, "siglevel": 0} },
+		"b_26": {"pos": "13|44", "number":"b_26", "type": 0 },
+		"65": { "pos": "-11|46", "number":"65", "type": 1, "champ": { "name": "hyperion","class": "te", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"b_27": {"pos": "-5|46", "number":"b_27", "type": 0 },
+		"66": { "pos": "-3|46", "number":"66", "type": 1, "champ": { "name": "juggernaut","class": "co", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"b_28": {"pos": "0|46", "number":"b_28", "type": 0 },
+		"67": { "pos": "3|46", "number":"67", "type": 1, "champ": { "name":"magik","class": "my", "stars": 4, "rank": 3, "siglevel": 0  } },
+		"b_29": {"pos": "5|46", "number":"b_29", "type": 0 },
+		"68": { "pos": "11|46", "number":"68", "type": 1, "champ": { "name": "spiderman","class": "sc", "stars": 4, "rank": 3, "siglevel": 0 } },
+		"69": { "pos": "0|50", "number":"69", "type": 1, "champ": { "name": "dormammu","class": "my", "stars": 4, "rank": 3, "siglevel": 0 } }
+	},
+	"boosts": {
+		"18": ["boost200", "health200", "buffduration30", "eresistance20"],
+		"19": ["bleed"],
+		"20": ["poison"],
+		"37": ["boost300", "health200", "unblockable", "buffduration30", "eresistance40"],
+		"40": ["power200"],
+		"41": ["bleed"],
+		"48": ["health200"],
+		"52": ["health200"],
+		"53": ["regen"],
+		"54": ["bleed"],
+		"56": ["regen"],
+		"59": ["health200"],
+		"61": ["bleed"],
+		"66": ["boost200"],
+		"67": ["global|boost200"],
+		"69": ["boost400", "healblock_special"]
+	},
+
+	"paths": {
+		"5 paths" : {
+
+			"p_1_1": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"b_1","b_3","3","2","1","b_2","10","16","b_5","18"
+				] },
+				"p_1_2": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"b_1","b_3","8","7", "13","b_5","18"
+				] },
+				"p_1_3": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"b_1","b_3","8","11","15","b_7","18"
+				] },
+				"p_1_4": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"b_1","b_3","8","9","14","b_6","18"
+				] },
+				"p_1_5": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"b_1","b_3","4","5","6","b_4","12","17","b_6","18"
+				] },
+				"p_2_1": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"18","b_9","19","b_8","21","23","29","35","36","37"
+				] },
+				"p_2_2": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"18","b_9","b_11","25","24","b_12","30","31","b_14","37"
+				] },
+				"p_2_3": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"18","b_9","b_11","26","27","b_13","33","32","b_14","37"
+				] },
+				"p_2_4": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"18","b_9","20","b_10", "22","28","34","39","38","37"
+				] },
+			 	"p_3_1": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"37","b_17","b_16","40","b_15","42","47","50","b_22","57","b_25","65","b_27", "66", "b_28", "69"
+				] },
+				"p_3_2": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"37","b_17","b_16","43","b_20","51","55","58","62","b_27", "66", "b_28", "69"
+				] },
+				"p_3_3": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"37","b_17","44","48","52","b_23","59","63","b_28","69"
+				] },
+				"p_3_4": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"37","b_17", "b_18","45","b_21","53","56","60","64", "b_29", "67", "b_28", "69"
+					
+				] },
+				"p_3_5": { 
+				"highlight": true, 
+				"nodes":
+				[
+					"37","b_17", "b_18","41", "b_19", "46", "49", "54", "b_24", "61" ,"b_26", "68", "b_29", "67", "b_28", "69"
+				] }
+		}
+	},
+
+	"links": {
+
+	"b_1_1": [8, 2, ["loss"]],
+	"b_1_2": [8, 5, ["loss"]],
+
+	"b_1_3": [1, 11, ["loss"]],
+	"b_1_4": [6, 11, ["boost100"]],
+
+	"b_1_5": [11, 10, ["boost100"]],
+	"b_1_6": [11, 12, ["boost100"]],
+
+	"b_1_7": [10, 15, ["attack200"]],
+	"b_1_8": [12, 15, ["loss"]],
+	"b_1_9": [16, 15, ["health100"]],
+	"b_1_10": [17, 15, ["attack100"]],
+
+	"b_1_11": [15, 18, ["boost300", "critrate28", "critdmg100", "loss"]],
+
+
+	"b_2_1": [25, 21, ["health200"]],
+	"b_2_2": [26, 22, ["attack200"]],
+
+	"b_2_3": [29, 30, ["attack100"]],
+	"b_2_4": [34, 33, ["health200"]],
+
+	"b_2_5": [29, 30, ["attack200"]],
+	"b_2_6": [35, 30, ["attack300"]],
+
+	"b_2_7": [34, 33, ["health200"]],
+	"b_2_8": [39, 33, ["loss"]],
+
+	"b_2_9": [30, 37, ["boost200"]],
+	"b_2_10": [33, 37, ["linked"]],
+	"b_2_11": [36,37, ["power200", "strike", "critdmg100", "critrate28"]],
+	"b_2_12": [38, 37, ["attack200"]],
+
+
+	"b_3_1": [43, 50, ["poison"]],
+	"b_3_2": [45, 54, ["attack200"]],
+
+	"b_3_3": [42, 51, ["attack200"]],
+	"b_3_4": [46, 53, ["health300"]],
+
+	"b_3_5": [58, 57, ["health200"]],
+	"b_3_6": [60, 61, ["attack200"]],
+
+	"b_3_7": [65, 69, ["linked"]],
+	"b_3_8": [62, 69, ["health300"]],
+	"b_3_9": [63, 69, ["loss"]],
+	"b_3_10": [64, 69, ["attack300"]],
+	"b_3_11": [68, 69, ["linked"]]
+	}
+}

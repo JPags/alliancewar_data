@@ -611,5 +611,10 @@
 		"img": "powertrend",
 		"title" : "Defensive",
 		"text" : "This defender is more passive and excels at defensive abilities like Blocking and Dodging."
+	},	
+	"heavyhitter":{
+		"img" : "",
+		"title" : "Heavy-Hitter",
+		"text" : "Heavy Attacks are not interrupted."
 	}
 }

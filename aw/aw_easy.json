@@ -200,7 +200,7 @@
         "18": ["iso:10", "enhancedbleed"],
         "19": ["iso:10", "pessimist"],
         "20": ["iso:25", "heavyhanded"],
-        "21": ["iso:25", "eresistance", "fury10"],
+        "21": ["iso:25", "eresistance:40", "fury10"],
         "22": ["iso:25", "health:25", "recovery:50"],
         "23": ["iso:25", "pessimist"],
         "24": ["iso:25", "health:50"],

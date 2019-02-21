@@ -462,6 +462,11 @@
 		"title" : "Combo Lost",
 		"text" : "The Combo Meter is not reset while fighting this enemy."
 	},
+	"comboshield" : {
+		"img" : "sword",
+		"title" : "Combo Shield",
+		"text" : "The Combo Meter is not reset after being struck by an attack."
+	},
 	"checkmate" : {
 		"img" : "strike",
 		"title" : "Checkmate",

@@ -306,81 +306,60 @@
 	},
 	"boosts": {
         "1": ["iso:50", "health:25", "electricfluctuations:1"],
-
         "2": ["iso:50", "health:25", "backuprecovery:1"],
-
         "3": ["iso:50", "health:25", "spite"],
-
         "4": ["iso:50", "health:25", "allornothing"],
-
         "5": ["iso:50", "health:25", "poision"],
-
         "6": ["iso:50", "health:25", "quicknullify:Regen:1"],
-
         "7": ["iso:50", "health:25", "breakthrough"],
-        
         "8": ["iso:50", "health:25", "powerbond"],
-
         "9": ["iso:50", "health:25", "powerfocus:1"],
-
         "10": ["iso:50", "health:25", "starburst"],
-
         "11": ["iso:50", "health:25", "invertedimmunity:bleed:1"],
-
         "12": ["iso:50", "health:25", "longdistancerelationship"],
-        
         "13": ["iso:50", "health:25", "aegis:heavy:1"],
-
         "14": ["iso:50", "health:25", "powerfocus:2"],
-
         "15": ["iso:50", "health:25", "psychicthorns:1", "quicknullify:regen:1"],
-
         "16": ["iso:50", "health:25",  "psychicthorns:1"],
-
         "17": ["iso:50", "health:25", "bubbleshield:1"],
-
         "18": ["iso:50", "health:25", "aegis:heavy:1", "bubbleshield:1"],
-
         "19": ["iso:50", "health:25", "heavyhitter"],
-
         "20": ["iso:50", "health:25", "breakthrough", "powerfocus:1", "mightlychange:1"],
-
         "21": ["iso:50", "health:25", "fisticuffs:1"],
-        
-        "22": ["iso:75", "health:150", "enhancedfury", "optimist", "Opportunist:3"],
-        "23": ["iso:75", "health:150", "enhancedarmorup", "pessimist", "sadist:3"],
-        "24": ["iso:75", "health:25", "buffduration:2", "redoubled_determination:2"],
-        "25": ["iso:75", "health:25", "limitedimunity:1", "boost_buff:Armor Up:1"],
-        "26": ["iso:75", "health:25", "masochism", "recovery:100"],
-        "27": ["iso:75", "health:25", "immunity:Poison","immunity:Bleed"],
-        "28": ["iso:75", "health:25", "shank", "thebestdefense:1"],
-        "29": ["iso:75", "health:25","specialbias1", "bufftoggle:Unblockable:1"],
-        "30": ["iso:75", "health:25","healblock:1", "powerstart1"],
-        "31": ["iso:75", "health:25", "healblock:1", "powershield", "closeencounters"],
-        "32": ["iso:75", "health:25", "confusion:1", "forceofwill"],
-        "33": ["iso:75", "health:25", "specialbias2", "bufftoggle:Unblockable:1"],
-        "34": ["iso:75", "health:25", "immunity:Poision", "immunity:Bleed"],
-        "35": ["iso:75", "health:25", "backuprecovery:1", "thebestdefense:1"],
-        "36": ["iso:75", "health:25", "strikeback", "redoubleddetermination:1"],
-        "37": ["iso:75", "health:25","bufftoggle:Unblockable:1", "redoubleddetermination:1", "limitedimmunity:1"],
-        "38": ["iso:75", "health:25", "caltrops", "boostbuff:Armor Up:1"],
-        "39": ["iso:75", "health:25", "palguedmind:1", "protectionshielding:1"],
-        "40": ["iso:75", "health:25", "plaguedmind:1", "prayontheweak", "closeencounters"],
-        "41": ["iso:75", "health:25", "kineticinstigator", "resistor", "tankbuster;1"],
-        "42": ["iso:75", "health:25", "buffet:1", "recovery:100"],
-        "43": ["iso:75", "health:25", "shank", "thebestdefense:1", "backuprecovery:1"],
-        "44": ["iso:75", "health:25", "protectionshielding:1", "preyontheweak", "closeencounters"],
-        "45": ["iso:75", "health:25", "resistor", "forceofwill"],
-        "46": ["iso:75", "health:25", "buffduration:1", "speciaklock1", "stunimmune"],
-        "47": ["iso:75", "health:25", "kinetictransferance:1", "powershield", "truestrike"],
-        "48": ["boost:125", "health:200", "bleedimmunity", "poisonimmunity", "stun", "limber:0.1"],
-        "49": ["boost:125", "health:200", "stunimmunity", "mirrorimage", "outlast", "truestrike"],
-        "50": ["boost:125", "health:200", "limber:0.1", "physicalresistance:20", "enhancedsp1"],
-        "51": ["boost:125", "health:200", "limber:0.1", "plaguedmind:1", "kineticreactor"],
-        "52": ["boost:125", "health:200", "armor:20", "plaugedmind:2","recovery:100"],
-        "53": ["iso:75", "health:300", "powergain:100", "specialbias2", "enhancedspecial2"],
-        "54": ["iso:75", "health:600", "presistance:20", "truestrike", "stunimmune"],
-        "55": ["boost:125", "health:300", "poisonimmune", "bleedimmune", "stunimmune"]
+        "22": ["iso:75", "health:150", "optimist", "Opportunist:3"],
+        "23": ["iso:75", "health:100", "pessimist", "sadist:3"],
+        "24": ["iso:75", "health:25", "buffduration:1"],
+        "25": ["iso:75", "health:25", "limitedimunity:1"],
+        "26": ["iso:75", "health:25", "masochism"],
+        "27": ["iso:75", "health:25", "immunity:Bleed"],
+        "28": ["iso:75", "health:25","thebestdefense:1"],
+        "29": ["iso:75", "health:25","specialbias1", "enhancedsp1"],
+        "30": ["iso:75", "health:25", "powerstart1"],
+        "31": ["iso:75", "health:25", "closeencounters"],
+        "32": ["iso:75", "health:25", "forceofwill"],
+        "33": ["iso:75", "health:25", "specialbias2", "enhancedsp2"],
+        "34": ["iso:75", "health:25", "immunity:Poision"],
+        "35": ["iso:75", "health:25", "backuprecovery:1"],
+        "36": ["iso:75", "health:25", "redoubleddetermination:1"],
+        "37": ["iso:75", "health:25", "redoubleddetermination:1", "limitedimmunity:1"],
+        "38": ["iso:75", "health:25", "boostbuff:Armor Up:1"],
+        "39": ["iso:75", "health:25", "protectionshielding:1"],
+        "40": ["iso:75", "health:25", "prayontheweak"],
+        "41": ["iso:75", "health:25", "kineticinstigator", "resistor"],
+        "42": ["iso:75", "health:25", "recovery:100"],
+        "43": ["iso:75", "health:25", "thebestdefense:1", "backuprecovery:1"],
+        "44": ["iso:75", "health:25", "protectionshielding:1", "preyontheweak"],
+        "45": ["iso:75", "health:25", "resistor"],
+        "46": ["iso:75", "health:25", "buffduration:1", "stunimmune"],
+        "47": ["iso:75", "health:25", "powershield", "truestrike"],
+        "48": ["boost:100", "health:150", "bleedimmunity", "poisonimmunity", "stun"],
+        "49": ["boost:100", "health:150", "mirrorimage", "truestrike"],
+        "50": ["boost:100", "health:150", "physicalresistance:10", "enhancedsp1"],
+        "51": ["boost:100", "health:150", "limber:0.1", "kineticreactor"],
+        "52": ["boost:100", "health:150", "plaugedmind:1","recovery:100"],
+        "53": ["boost:100", "health:150", "powergain:100", "enhancedspecial2"],
+        "54": ["iso:75", "health:500", "presistance:20", "comboshield", "checkmate", "stunimmune"],
+        "55": ["boost:100", "health:150", "stunimmune"]
 	},
 
 	"links": {

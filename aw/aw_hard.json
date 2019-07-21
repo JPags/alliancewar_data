@@ -357,7 +357,7 @@
         "50": ["boost:125", "health:200", "limber:0.1", "physicalresistance:20", "enhancedsp1"],
         "51": ["boost:125", "health:200", "limber:0.1", "plaguedmind:1", "kineticreactor"],
         "52": ["boost:125", "health:200", "armor:20", "plaugedmind:2","recovery:100"],
-        "53": ["boost:100", "health:300", "powergain:100", "specialbias2", "enhancedspecial2"],
+        "53": ["boost:125", "health:200", "powergain:100", "specialbias2", "enhancedspecial2"],
         "54": ["boost:100", "health:600", "presistance:20", "truestrike", "stunimmune"],
         "55": ["boost:125", "health:300", "poisonimmune", "bleedimmune", "stunimmune"]
 	},

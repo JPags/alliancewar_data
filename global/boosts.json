@@ -621,5 +621,40 @@
 		"img" : "",
 		"title" : "Heavy-Hitter",
 		"text" : "Heavy Attacks are not interrupted."
+	},
+	"electricfluctuations":{
+		"img" : "",
+		"title" : "Electric Fluctuations",
+		"text" : ""
+	},
+	"poision":{
+		"img" : "",
+		"title" : "Poision",
+		"text" : ""
+	},
+	"invertedimmunity":{
+		"img" : "",
+		"title" : "Inverted Immunity",
+		"text" : ""
+	},
+	"nanoplague":{
+		"img" : "",
+		"title" : "Nano Plague",
+		"text" : ""
+	},
+	"1":{
+		"img" : "",
+		"title" : "",
+		"text" : ""
+	},
+	"2":{
+		"img" : "",
+		"title" : "",
+		"text" : ""
+	},
+	"3":{
+		"img" : "",
+		"title" : "",
+		"text" : ""
 	}
 }

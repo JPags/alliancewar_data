@@ -625,12 +625,12 @@
 	"electricfluctuations":{
 		"img" : "",
 		"title" : "Electric Fluctuations",
-		"text" : ""
+		"text" : "The duration of the Attacker's Buffs is reduced by 1.50 seconds, and if they are a Robot they suffer 50% reduced Ability Accuracy"
 	},
-	"poision":{
-		"img" : "",
-		"title" : "Poision",
-		"text" : ""
+	"poison":{
+		"img" : "poison",
+		"title" : "Poison",
+		"text" : "Inflicts Poison every 7 seconds, dealing 160% of this champion's Attack as direct damage over 32 seconds "
 	},
 	"invertedimmunity":{
 		"img" : "",
@@ -642,11 +642,56 @@
 		"title" : "Nano Plague",
 		"text" : ""
 	},
-	"1":{
+  "strikecounter-fury":{
+		"img" : "",
+		"title" : "Strike counter - Fury",
+		"text" : "The Attacker starts with 3 Light Charge(s), 3 Medium Charge(s), and 2 Heavy Charge(s). A Charge is removed whenever the Attacker lands a corresponding Attack, and all Charges are reset when the Attacker lands a Special Attack. When any Charge reaches 0, the Defender gains Fury Passives over time until Charges are reset."
+	},
+  "strikecounter-combatpowerrate":{
+		"img" : "",
+		"title" : "Strike counter - Combat Power Rate",
+		"text" : "The Attacker starts with 3 Light Charge(s), 3 Medium Charge(s), and 2 Heavy Charge(s). A Charge is removed whenever the Attacker lands a corresponding Attack, and all Charges are reset when the Attacker lands a Special Attack. When any Charge reaches 0, the Attacker's Power rate decreases over time until Charges are reset."
+	},
+  "steadybuildup-fury":{
+		"img" : "",
+		"title" : "Steady Buildup - Fury",
+		"text" : "The Defender has 100% increased Defensive Ability Accuracy. When the Attacker has 3 or more Debuffs, the Defender gains a Fury Passive increasing Attack Rating by 150% until the Attacker has 0 Debuffs. Whenever the Attacker Purifies a Debuff, they gain a Fury Passive, increasing Attack Rating by 100% for 10 second(s)."
+	},
+    "steadybuildup-unblockable":{
+		"img" : "",
+		"title" : "Steady Buildup - Unblockable",
+		"text" : "The Defender has 100% increased Defensive Ability Accuracy. When the Attacker has 3 or more Debuffs, the Defender becomes Unblockable until the Attacker has 0 Debuffs. Whenever the Attacker Purifies a Debuff, they become Unblockable for 7 second(s)."
+	},
+    "ebbandflow-intercept":{
+		"img" : "",
+		"title" : "Ebb and Flow - Intercept",
+		"text" : "The Defender has Protection, reducing all incoming damage by 90%. Intercepting the Defender removes the Protection and grants the Attacker a Precision Passive, increasing Critical Rating by 30% for 6 second(s). When the Precision expires, the Protection returns, and all Debuffs on the Defender are Purified."
+	},
+    "buffimbalance-powerdrain":{
+		"img" : "",
+		"title" : "Buff Imbalance - Power Drain",
+		"text" : "Whenever the Defender gains a Buff, the Attacker receives an indefinite Power Drain Debuff, draining 10% of a Bar of Power every 6 second(s). These Power Drains are all removed when the Attacker lands a Special Attack."
+	},
+    "buffimbalance-weakness":{
+		"img" : "",
+		"title" : "Buff Imbalance - Weakness",
+		"text" : "Whenever the Defender gains a Buff, the Attacker receives an indefinite Weakness, decreasing Attack Rating by 15%. These Weaknesses are all removed when the Attacker lands a Special Attack."
+	},
+  "windowofopportunity-stun":{
+		"img" : "",
+		"title" : "Window of Opportunity - Stun",
+		"text" : "The Defender starts the fight Stun Immune. Whenever they would be Stunned the Attacker is instead Stunned for 4 second(s). The Immunity lasts for 12 second(s), then goes on cooldown for 12 second(s) before returning. When the Immunity returns, it Purifies all Stun Debuffs on the Defender."
+	},
+  "hazardshift-incineratepoison":{
+		"img" : "",
+		"title" : "Hazard Shift - Incinerate, Poison",
+		"text" : "Striking the Defender has a 40% chance to inflict the Attacker with an Incinerate Debuff, dealing [30%Atk] Damage over 7 second(s). Every 7 second(s), this is swapped for a chance to inflict Poison instead"
+	},
+   	"1":{
 		"img" : "",
 		"title" : "",
 		"text" : ""
-	},
+	}
 	"2":{
 		"img" : "",
 		"title" : "",

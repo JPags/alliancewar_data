@@ -169,6 +169,11 @@
 		"title" : "Heal Block",
 		"text" : "Prevent the target from recovering Health."
 	},
+	"healblock_passive" : {
+		"img" : "healblock",
+		"title" : "Heal Block - Passive",
+		"text" : "The attacker is permanently affected by a Passive Heal Block."
+	},
 	"recovery" : {
 		"img" : "regen",
 		"title" : "Recovery",
@@ -213,11 +218,6 @@
 		"img" : "rollingthunder",
 		"title" : "Rolling Thunder",
 		"text" : "This enemy raises Special Attack Damage by 10% for every 10 Seconds that pass"
-	},
-	"poison" : {
-		"img" : "poison",
-		"title" : "Poison",
-		"text" : "Inflicts Poison."
 	},
 	"poison100" : {
 		"img" : "poison",
@@ -677,6 +677,11 @@
 		"title" : "Ebb and Flow - Intercept",
 		"text" : "The Defender has Protection, reducing all incoming damage by 90%. Intercepting the Defender removes the Protection and grants the Attacker a Precision Passive, increasing Critical Rating by 30% for 6 second(s). When the Precision expires, the Protection returns, and all Debuffs on the Defender are Purified."
 	},
+	"ebbandflow-knockdown":{
+		"img" : "",
+		"title" : "Ebb and Flow - Knock Down",
+		"text" : "The Defender has Protection, reducing all incoming damage by 90%. Knocking down the Defender removes the Protection and grants the Attacker a Precision Passive, increasing Critical Rating by 40% for 6 second(s). When the Precision expires, the Protection returns, and all Debuffs on the Defender are Purified."
+	},
     	"buffimbalance-powerdrain":{
 		"img" : "",
 		"title" : "Buff Imbalance - Power Drain",
@@ -700,7 +705,7 @@
   	"sadist":{
 		"img" : "",
 		"title" : "Sadist",
-		"text" : "This Defender gains +{X}% Attack for each Debuff on them."
+		"text" : "This Defender gains +{0}% Attack for each Debuff on them."
 	},
   	"tranquility":{
 		"img" : "",
@@ -917,10 +922,20 @@
 		"title" : "Aggression: Prowess",
 		"text" : "Every 2 seconds on a timer, gain a Prowess Passive increasing Special Attack damage by 50% per stack. When struck, reset the timer and remove a Fury passive stack."
 	},
+	"agressionarmor":{
+		"img" : "armor",
+		"title" : "Aggression: Armor",
+		"text" : "Every 2 seconds on a timer, gain an Armor Up Passive increasing Armor by 50% per stack. When struck, reset the timer and remove an Armor Up passive stack."
+	},
+	"agressionregeneration":{
+		"img" : "",
+		"title" : "Aggression: Regeneration",
+		"text" : "Every 2 seconds on a timer, gain a Regeneration Passive that heals for 0.25% of max health every second per stack. When struck, reset the timer and remove a Fury passive stack."
+	},
   	"powerbond":{
 		"img" : "",
 		"title" : "Power Bond",
-		"text" : "Attacker's Power draining abilities are X% less effective."
+		"text" : "Attacker's Power draining abilities are {0}% less effective."
 	},
   	"powerfulfromafar":{
 		"img" : "",
@@ -950,7 +965,7 @@
   	"oscilate":{
 		"img" : "",
 		"title" : "Oscilate",
-		"text" : "Every X seconds, the Defender alternates between a Fury passive increasing Base Attack by X% and an Armor Up/Crit Resistance passive increasing Armor and Crit Resist by X%."
+		"text" : "Every 15 seconds, the Defender alternates between a Fury passive increasing Base Attack by 110% and an Armor Up/Crit Resistance passive increasing Armor and Crit Resist by 500."
 	},
   	"dulled":{
 		"img" : "",
@@ -970,7 +985,7 @@
   	"coldturkey1":{
 		"img" : "",
 		"title" : "Cold Turkey 1",
-		"text" : "Whenever the Attacker purifies a Debuff they receive a burst of Degeneration Damage dealing a X% Attack"
+		"text" : "Whenever the Attacker purifies a Debuff they receive a burst of Degeneration Damage dealing a {0}% Attack"
 	},
   	"coldturkey2":{
 		"img" : "",
@@ -984,7 +999,7 @@
 	},
   	"returnpolicy1":{
 		"img" : "",
-		"title" : "Return Policy1",
+		"title" : "Return Policy -1",
 		"text" : "Whenever any of the Defenders Buffs are Nullified they gain X% of a bar of Power"
 	},
   	"returnpolicy2":{
@@ -1047,15 +1062,15 @@
 		"title" : "The Best Defence 3",
 		"text" : "The Defender gains X% Evade and Auto-Block Ability Accuracy. Triggering Evade or Auto-Block grants the Defender X% of a Bar of Power."
 	},  
-  	"1":{
+  	"toxicant_toxican":{
 		"img" : "",
-		"title" : "",
-		"text" : ""
+		"title" : "Toxicant? Toxi-can?",
+		"text" : "Both the attacker and Defenders strikes have a 20% change to apply a poison Debuff, dealing 50% of their attack as Direct Damage over 10 seconds and reducing recovery rate by 30%"
 	},
-	"2":{
+	"backuprecovery1":{
 		"img" : "",
-		"title" : "",
-		"text" : ""
+		"title" : "Backup Recovery - 1",
+		"text" : "When brough below 50% health the Defender gains a burst of 20% power. If a reducton to Ability Accuracy prevents this, the defender instead recovers 15% Max Health."
 	},
 	"3":{
 		"img" : "",

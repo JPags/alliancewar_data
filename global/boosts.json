@@ -112,7 +112,7 @@
 	"stunimmune" : {
 		"img" : "stun",
 		"title" : "Stun Immunity",
-		"text" : "This Champion is immune to the effects of Stun."
+		"text" : "The Defender is immune to the effects of Stun."
 	},
 	"poisonimmune" : {
 		"img" : "imune",
@@ -132,7 +132,7 @@
 	"limber_percent" : {
 		"img" : "limber",
 		"title" : "Limber",
-		"text" : "Each time this enemy is Stunned, they reduce the duration of Stuns by {0}%."
+		"text" : "Each time the Defender receives a Stun Debuff, they reduce the Duration of further Stun Debuffs by {0}%."
 	},
 	"heavyhanded" : {
 		"img" : "heavy",
@@ -236,7 +236,7 @@
 	},
 	"enhancedenergyattack" : {
 		"img" : "energy",
-		"title" : "Energy Attacks",
+		"title" : "Enhanced Energy Attacks",
 		"text" : "Energy Attacks inflict 40% more damage."
 	},
 	"bleed" : {
@@ -424,7 +424,7 @@
 	"strike" : {
 		"img" : "strike",
 		"title" : "True Strike",
-		"text" : "Attacks ignore Armor, Resistance and Evasion."
+		"text" : "Deffender's attacks ignore Armor, Resistance, and Evasion."
 	},
 	"critdmg100" : {
 		"img" : "critrate",
@@ -543,9 +543,9 @@
 		"text" : "Nullify abilities shatter theirt argets, dealing 1300 direct damage for each effect Nullified in this way."
 		},
 	"rage":{
-		"img" : "powertrend",
+		"img" : "attack",
 		"title" : "Rage",
-		"text" : "Damage take in a single hit is capped at 2.5% of Max Health.  When damage cap is reached, gain a Fury Buff. Upon reaching 5 Fury Buffs activated by Rage, attacks become Unblockable."
+		"text" : "Damage take in a single hit is capped at 2.5% of Max Health.  When damage cap is reached, gain a Fury Buff. Upon reaching 5 Fury Buffs activated by Rage, attacks become Unblockable. Ability Accuracy modification doesn't afect this Node."
 	 },
 	 "agressive":{
 		"img" : "powertrend",
@@ -593,7 +593,7 @@
 		"text" : "Joe Fixit's Double Down ability becomes perminent"
 	},
 	"biohazard":{
-		"img" : "powertrend",
+		"img" : "",
 		"title" : "biohazard",
 		"text" : "When stuck, 20% chance to inflict Bleed, dealing 100% of Attack as direct damage over 7.50 seconds. When Blocking an attack 50% chance to inflict Poison, dealing 100% of Attack as direct damage over 7.50 seconds."
 	},
@@ -652,27 +652,27 @@
 		"title" : "Nano Plague",
 		"text" : ""
 	},
-  	"strikecounter-fury":{
+  "strikecounter-fury":{
 		"img" : "",
 		"title" : "Strike counter - Fury",
 		"text" : "The Attacker starts with 3 Light Charge(s), 3 Medium Charge(s), and 2 Heavy Charge(s). A Charge is removed whenever the Attacker lands a corresponding Attack, and all Charges are reset when the Attacker lands a Special Attack. When any Charge reaches 0, the Defender gains Fury Passives over time until Charges are reset."
 	},
-  	"strikecounter-combatpowerrate":{
+  "strikecounter-combatpowerrate":{
 		"img" : "",
 		"title" : "Strike counter - Combat Power Rate",
-		"text" : "The Attacker starts with 3 Light Charge(s), 3 Medium Charge(s), and 2 Heavy Charge(s). A Charge is removed whenever the Attacker lands a corresponding Attack, and all Charges are reset when the Attacker lands a Special Attack. When any Charge reaches 0, the Attacker's Power rate decreases over time until Charges are reset."
+		"text" : "The Attacker starts with 5 Light Charge(s), 4 Medium Charge(s), and 2 Heavy Charge(s). A Charge is removed whenever the Attacker lands a corresponding Attack, and all Charges are reset when the Attacker lands a Special Attack. When any Charge reaches 0, the Attacker's Power rate decreases over time until Charges are reset."
 	},
-  	"steadybuildup-fury":{
+  "steadybuildup-fury":{
 		"img" : "",
 		"title" : "Steady Buildup - Fury",
 		"text" : "The Defender has 100% increased Defensive Ability Accuracy. When the Attacker has 3 or more Debuffs, the Defender gains a Fury Passive increasing Attack Rating by 150% until the Attacker has 0 Debuffs. Whenever the Attacker Purifies a Debuff, they gain a Fury Passive, increasing Attack Rating by 100% for 10 second(s)."
 	},
-    	"steadybuildup-unblockable":{
+  "steadybuildup-unblockable":{
 		"img" : "",
 		"title" : "Steady Buildup - Unblockable",
 		"text" : "The Defender has 100% increased Defensive Ability Accuracy. When the Attacker has 3 or more Debuffs, the Defender becomes Unblockable until the Attacker has 0 Debuffs. Whenever the Attacker Purifies a Debuff, they become Unblockable for 7 second(s)."
 	},
-    	"ebbandflow-intercept":{
+  "ebbandflow-intercept":{
 		"img" : "",
 		"title" : "Ebb and Flow - Intercept",
 		"text" : "The Defender has Protection, reducing all incoming damage by 90%. Intercepting the Defender removes the Protection and grants the Attacker a Precision Passive, increasing Critical Rating by 30% for 6 second(s). When the Precision expires, the Protection returns, and all Debuffs on the Defender are Purified."
@@ -785,7 +785,7 @@
   	"indomitable":{
 		"img" : "",
 		"title" : "Indomitable",
-		"text" : "Whenever the Defender's healing abilities would be reversed, they are instead only Heal Blocked."
+		"text" : "The Defender's healing abilities can't be reversed, when this would occur they're instead only Heal Blocked."
 	},
   	"lionheart":{
 		"img" : "",
@@ -804,23 +804,23 @@
 	},
   	"powerfocus1":{
 		"img" : "",
-		"title" : "Power Focus-1",
+		"title" : "Power Focus 1",
 		"text" : "The Defender gains 60% Power Rate while below 1 Bar of Power but suffers -80% Power Rate while above."
 	},
   	"powerfocus2":{
 		"img" : "",
-		"title" : "Power Focus-2",
+		"title" : "Power Focus 2",
 		"text" : "The Defender gains X% Power Rate while below 1 Bar of Power but suffers -X% Power Rate while above."
 	},
   	"powerfocus3":{
 		"img" : "",
-		"title" : "Power Focus-3",
+		"title" : "Power Focus 3",
 		"text" : "The Defender gains X% Power Rate while below 1 Bar of Power but suffers -X% Power Rate while above."
 	},
   	"stungonce1":{
 		"img" : "",
 		"title" : "Stung Once, Twice Shy 1",
-		"text" : "When the Attacker gains a  Bar of Power, they are afflicted with a Power Sting Debuff for 2 second(s)."
+		"text" : "When the Attacker gains a  Bar of Power, they are afflicted with a Power Sting Debuff for 6 second(s)."
 	},
   	"stungonce2":{
 		"img" : "",
@@ -880,7 +880,7 @@
   	"rapidmetabolism1":{
 		"img" : "",
 		"title" : "Rapid Metabolism 1",
-		"text" : "This Defender shrugs off Debuffs 50% sooner."
+		"text" : "This Defender shrugs off Debuffs 40% sooner."
 	},
   	"rapidmetabolism2":{
 		"img" : "",
@@ -915,7 +915,7 @@
   	"unlimitedpower":{
   	"img" : "",
 		"title" : "UNLIMITED POWER!",
-		"text" : "For each Debuff the Defender has suffered since the start of the fight, every X seconds they activate a permanent Fury Buff increasing their Attack by X%. If these Fury Buffs are Nullified or removed in any way, the Defender gains X% of their max Power for each Buff Nullified."
+		"text" : "For each Debuff the Defender has suffered since the start of the fight, every 10 seconds they activate a permanent Fury Buff increasing their Attack by 25%. If these Fury Buffs are Nullified or removed in any way, the Defender gains 15% of their max Power for each Buff Nullified."
 	},
   	"agressionprowess":{
 		"img" : "",
@@ -940,7 +940,7 @@
   	"powerfulfromafar":{
 		"img" : "",
 		"title" : "Powerful From Afar",
-		"text" : "Each time the Attacker leaves striking distance, the Defender gains a Power Gain Buff. When entering striking distance the Buff is removed. Power draining abilities are X% less effective."
+		"text" : "Each time the Attacker leaves striking distance, the Defender gains a Power Gain Buff. When entering striking distance the Buff is removed."
 	},
   	"bloodinthewater":{
 		"img" : "",
@@ -952,10 +952,10 @@
 		"title" : "Rich Get Richer",
 		"text" : "Whichever Champion has more Unique Buffs gains X% of a bar of Power every second."
 	},
-  	"bufftoggleunstoppable":{
+  	"bufftoggleunstoppable1":{
 		"img" : "",
-		"title" : "Buff Toggle (Unstoppable)",
-		"text" : "Every X seconds, the Defender gains an Unstoppable Buff for X seconds."
+		"title" : "Buff Toggle (Unstoppable) 1",
+		"text" : "Every 10 seconds, the Defender gains an Unstoppable Buff for 2 seconds."
 	},
   	"tunnelvision":{
 		"img" : "",
@@ -980,7 +980,7 @@
  	"encroachingstun":{
 		"img" : "",
 		"title" : "Encroaching Stun",
-		"text" : "Every X seconds the Attacker becomes Stunned for X seconds, unless they are performing a Special Attack when the timer expires. During the Stun, the Attacker's Armor Rating is doubled."
+		"text" : "Every 20 seconds the Attacker becomes Stunned for 3 seconds, unless they are performing a Special Attack when the timer expires. During the Stun, the Attacker's Armor Rating is doubled."
 	},
   	"coldturkey1":{
 		"img" : "",
@@ -998,13 +998,13 @@
 		"text" : "Whenever the Attacker purifies a Debuff they receive a burst of Degeneration Damage dealing a X% Attack"
 	},
   	"returnpolicy1":{
-		"img" : "",
-		"title" : "Return Policy -1",
-		"text" : "Whenever any of the Defenders Buffs are Nullified they gain X% of a bar of Power"
+		"img" : "power",
+		"title" : "Return Policy - 1",
+		"text" : "Whenever any of the Defenders Buffs are Nullified they gain 20% of a bar of Power"
 	},
   	"returnpolicy2":{
-		"img" : "",
-		"title" : "Return Policy2",
+		"img" : "power",
+		"title" : "Return Policy - 2",
 		"text" : "Whenever any of the Defenders Buffs are Nullified they gain 40% of a bar of Power"
 	},
   	"opportunist1":{
@@ -1035,12 +1035,12 @@
   	"trialbyfire1":{
 		"img" : "",
 		"title" : "Trial By Fire 1",
-		"text" : "If the Defender is not strucked within 6 seconds the Attacker receives an Incinerate Debuff dealings 100% of the Defenders base attack as Direct Damage over 10 seconds."
+		"text" : "If the Defender is not strucked within 6 seconds the Attacker receives an Incinerate Debuff dealings 25% of the Defenders base attack as Direct Damage over 6 seconds."
 	},
   	"trialbyfire2":{
 		"img" : "",
 		"title" : "Trial By Fire 2",
-		"text" : "If the Defender is not strucked within 4 seconds the Attacker receives an Incinerate Debuff dealings 100% of the Defenders base attack as Direct Damage over 10 seconds."
+		"text" : "If the Defender is not strucked within 4 seconds the Attacker receives an Incinerate Debuff dealings 50% of the Defenders base attack as Direct Damage over 4 seconds."
 	},
   	"trialbyfire3":{
 		"img" : "",
@@ -1049,17 +1049,17 @@
 	},
   	"thebestdefence1":{
 		"img" : "",
-		"title" : "The Best Defence 1",
-		"text" : "The Defender gains X% Evade and Auto-Block Ability Accuracy. Triggering Evade or Auto-Block grants the Defender X% of a Bar of Power."
+		"title" : "The Best Defence... 1",
+		"text" : "The Defender gains +20% Evade and Auto-Block Ability Accuracy. Triggering Evade or Auto-Block grants the Defender 10% of a Bar of Power."
 	},
   	"thebestdefence2":{
 		"img" : "",
-		"title" : "The Best Defence 2",
+		"title" : "The Best Defence... 2",
 		"text" : "The Defender gains X% Evade and Auto-Block Ability Accuracy. Triggering Evade or Auto-Block grants the Defender X% of a Bar of Power."
 	},
   	"thebestdefence3":{
 		"img" : "",
-		"title" : "The Best Defence 3",
+		"title" : "The Best Defence... 3",
 		"text" : "The Defender gains X% Evade and Auto-Block Ability Accuracy. Triggering Evade or Auto-Block grants the Defender X% of a Bar of Power."
 	},  
   	"toxicant_toxican":{
@@ -1071,6 +1071,21 @@
 		"img" : "",
 		"title" : "Backup Recovery - 1",
 		"text" : "When brough below 50% health the Defender gains a burst of 20% power. If a reducton to Ability Accuracy prevents this, the defender instead recovers 15% Max Health."
+	},
+  "empmodification":{
+		"img" : "",
+		"title" : "E.M.P. Modification",
+		"text" : "Whenever the attackera gains a Buff, the Defender gains an Overclock charge. Max 10 stacks. For each charge, the Defender deals +15% Energy Damage with each strike Defender's Special Attacks convert all charges into Passive Shocks, each dealing 25% of Attack as Energy Damage over 10 seconds."
+	},
+  "featsofpower":{
+		"img" : "",
+		"title" : "Feats Of Power",
+		"text" : "When above 1 Bar of Power, gain a Fury Buff. When above 2 Bars of Power, gain a Precision Buff. When at 3 Bars of Power, gain a Cruelty Buff."
+	},
+  "supercharge":{
+		"img" : "spite",
+		"title" : "Supercharge",
+		"text" : "Every 15 seconds the Defender activates a Power Gain Buff, granting 20% of their maximum Power over 10 seconds."
 	},
 	"3":{
 		"img" : "",

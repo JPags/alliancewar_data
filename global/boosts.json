@@ -87,7 +87,7 @@
 	"bane" : {
 		"img" : "bane",
 		"title" : "Bane",
-		"text" : "The Attacker begins under the effect of a Curse, which deals 2.50% of the opponents current health as Direct Damage per second.  Whenever a Champion with the Curse strikes the other Champion or if the Curse has been on the same Champion for 10 seconds, it passes to the other Champion."
+		"text" : "The Attacker begins under the effect of a Curse, which deals 0.50% of the opponents current health as Direct Damage per second.  Whenever a Champion with the Curse strikes the other Champion or if the Curse has been on the same Champion for 10 seconds, it passes to the other Champion."
 	},
 	"stun" : {
 		"img" : "stun",
@@ -675,12 +675,12 @@
   "ebbandflow-intercept":{
 		"img" : "",
 		"title" : "Ebb and Flow - Intercept",
-		"text" : "The Defender has Protection, reducing all incoming damage by 90%. Intercepting the Defender removes the Protection and grants the Attacker a Precision Passive, increasing Critical Rating by 30% for 6 second(s). When the Precision expires, the Protection returns, and all Debuffs on the Defender are Purified."
+		"text" : "The Defender has Protection, reducing all incoming damage by 60%. Intercepting the Defender removes the Protection and grants the Attacker a Precision Passive, increasing Critical Rating by 30% for 6 second(s). When the Precision expires, the Protection returns, and all Debuffs on the Defender are Purified."
 	},
 	"ebbandflow-knockdown":{
 		"img" : "",
 		"title" : "Ebb and Flow - Knock Down",
-		"text" : "The Defender has Protection, reducing all incoming damage by 90%. Knocking down the Defender removes the Protection and grants the Attacker a Precision Passive, increasing Critical Rating by 40% for 6 second(s). When the Precision expires, the Protection returns, and all Debuffs on the Defender are Purified."
+		"text" : "The Defender has Protection, reducing all incoming damage by 60%. Knocking down the Defender removes the Protection and grants the Attacker a Fury Passive, increasing Attack Rating by 40% for 12 second(s). When the Fury expires, the Protection returns, and all Debuffs on the Defender are Purified."
 	},
     	"buffimbalance-powerdrain":{
 		"img" : "",
@@ -700,7 +700,7 @@
   	"hazardshift-incineratepoison":{
 		"img" : "",
 		"title" : "Hazard Shift - Incinerate, Poison",
-		"text" : "Striking the Defender has a 40% chance to inflict the Attacker with an Incinerate Debuff, dealing [30%Atk] Damage over 7 second(s). Every 7 second(s), this is swapped for a chance to inflict Poison instead"
+		"text" : "Striking the Defender has a 40% chance to inflict the Attacker with an Incinerate Debuff, dealing [30%Atk] Damage over 7 second(s). Every 12 second(s), this is swapped for a chance to inflict Poison instead"
 	},
   	"sadist":{
 		"img" : "",
@@ -1086,6 +1086,36 @@
 		"img" : "spite",
 		"title" : "Supercharge",
 		"text" : "Every 15 seconds the Defender activates a Power Gain Buff, granting 20% of their maximum Power over 10 seconds."
+	},
+  "aegis_heavy1":{
+		"img" : "",
+		"title" : "Aegis (Heavy) 1",
+		"text" : "The Defender begins with 2 Indestructible charges. Each Heavy Attack strike againts the Defender removes 1 charge."
+	},
+  "personalspace":{
+		"img" : "",
+		"title" : "Personal Space",
+		"text" : "While the Attacker is close to the Defender, the Defender gains a Fury Buff every 3 seconds, increasing their attack by 10% permanently. Staying far away from the Defender causes these Fury effects to gradually fall off."
+	},
+  "shiftingimmunity":{
+		"img" : "",
+		"title" : "Shifting Immunity",
+		"text" : "The Defender starts the fight with Bleed Immunity, which alternates every 10 second(s) eith Poison Immunity. When an Immunity triggers, it Purifies any corresponding effects."
+	},
+  "powersnack":{
+		"img" : "",
+		"title" : "Power Snack",
+		"text" : "Every 7 seconds the next Buff triggered by the Attacker is immediatelly Nullified. Each time this effect triggers, the Defender gains 25% of a bar of power."
+	},
+  "mixmaster":{
+		"img" : "",
+		"title" : "Mix Master",
+		"text" : "If the Attacker attempts the same Basic Attack twice in a row the Defender has a 100% chance to Evade the second Attack."
+	},
+  "polkadotpower":{
+		"img" : "",
+		"title" : "Polka Dot Power",
+		"text" : "The Attacker gains no Power from landing or receiving attacks, instead they are granted 12% of a Power Bar per second while the Defender is suffering from a damaging debuff."
 	},
 	"3":{
 		"img" : "",

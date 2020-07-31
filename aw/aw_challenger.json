@@ -336,7 +336,7 @@
         "19": ["boost:100", "health:75", "heavyhitter", "spite"],
         "20": ["boost:100", "health:75", "bruteforce", "powerfocus:2", "boostbuff:Unstoppable:2", "bufftogle:Unstoppable:2"],
         "21": ["boost:100", "health:75", "fisticuffs:2", "allornothing"],
-        "22": ["boost:150", "health:200", "enhancedfury", "optimist", "agression:fury"],
+        "22": ["boost:150", "health:200", "enhancedfury", "optimist", "aggressionfury"],
         "23": ["boost:150", "health:200", "enhancedarmorup", "pessimist", "armor:20"],
         "24": ["boost:150", "health:75", "buffduration:2", "redoubled_determination:2"],
         "25": ["boost:150", "health:75", "limitedimunity:2", "boost_buff:Armor Up:2"],

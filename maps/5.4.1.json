@@ -268,7 +268,7 @@
         "9": ["lifetransfer", "stunimmune"],
 
         "10": ["vigor", "recovery:150"],
-        "11": ["vigor", "mystic_ward:80"],
+        "11": ["vigor", "mysticward:80"],
         "12": ["vigor", "presistance:80"],
         "13": ["vigor", "enhancedabilities"],
         "14": ["vigor", "baneofdamballah"],
@@ -277,7 +277,7 @@
         "17": ["vigor", "replicate"],
 
         "18": ["rage", "godslayer"],
-        "19": ["rage", "agressive"],
+        "19": ["rage", "aggressive"],
         "20": ["rage", "enhancedfury"],
         "21": ["rage", "rollingthunder"],
         "22": ["rage", "heavyhanded", "armor:45"],
@@ -285,7 +285,7 @@
         "24": ["rage", "resonancecascade"],
         "25": ["rage", "critrate:28"],
         
-        "26": ["mystic_ward:95", "enhancedbleed"],
+        "26": ["mysticward95", "enhancedbleed"],
         "27": ["enhancedpoison", "enhancedbleed"],
         "28": ["enhancedweakening:40", "enhancedpoison"],
         "29": ["stunimmune", "enhancedpoison"],

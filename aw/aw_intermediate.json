@@ -1,378 +1,347 @@
 {
-	"nodes": {
+  "nodes": {
+    "b_1": {"pos": "0|0", "number":"b_1", "type": 0 },
+    "b_2": {"pos": "-4|2", "number":"b_2", "type": 0 },
+    "b_3": {"pos": "4|2", "number":"b_3", "type": 0 },
 
-        "b_1": {"pos": "0|0", "number":"b_1", "type": 0 },       
-		"b_2": {"pos": "-4|2", "number":"b_2", "type": 0 },
-        "b_3": {"pos": "4|2", "number":"b_3", "type": 0 },
+    "b_4": {"pos": "-8|2", "number":"b_4", "type": 0 },
+    "4": { "pos": "-10|4", "number":"4", "type": 1 },
+    "5": { "pos": "-8|4", "number":"5", "type": 1 },
+    "6": { "pos": "-6|4", "number":"6", "type": 1 },
 
-        
-       
-        "b_4": {"pos": "-8|2", "number":"b_4", "type": 0 },
-        "4": { "pos": "-10|4", "number":"4", "type": 1  },
-        "5": { "pos": "-8|4", "number":"5", "type": 1  },
-        "6": { "pos": "-6|4", "number":"6", "type": 1  },
+    "b_5": {"pos": "-10|7", "number":"b_5", "type": 0 },
+    "b_6": {"pos": "-8|7", "number":"b_6", "type": 0 },
+    "b_7": {"pos": "-6|7", "number":"b_7", "type": 0 },
 
-        "b_5": {"pos": "-10|7", "number":"b_5", "type": 0 },
-        "b_6": {"pos": "-8|7", "number":"b_6", "type": 0 },
-        "b_7": {"pos": "-6|7", "number":"b_7", "type": 0 },
+    "13": { "pos": "-10|10", "number":"13", "type": 1 },
+    "14": { "pos": "-8|10", "number":"14", "type": 1 },
+    "15": { "pos": "-6|10", "number":"15", "type": 1 },
 
-        "13": { "pos": "-10|10", "number":"13", "type": 1  },
-        "14": { "pos": "-8|10", "number":"14", "type": 1  },
-        "15": { "pos": "-6|10", "number":"15", "type": 1  },
-
-        "20": { "pos": "-8|12", "number":"20", "type": 1  },
-        "b_8": {"pos": "-4|16", "number":"b_8", "type": 0 },
+    "20": { "pos": "-8|12", "number":"20", "type": 1  },
+    "b_8": {"pos": "-4|16", "number":"b_8", "type": 0 },
 
 
+    "b_9": {"pos": "0|2", "number":"b_9", "type": 0 },
 
-        "b_9": {"pos": "0|2", "number":"b_9", "type": 0 },
-      
-        "1": { "pos": "-2|4", "number":"1", "type": 1  },
-        "2": { "pos": "0|4", "number":"2", "type": 1  },
-        "3": { "pos": "2|4", "number":"3", "type": 1  },
+    "1": { "pos": "-2|4", "number":"1", "type": 1  },
+    "2": { "pos": "0|4", "number":"2", "type": 1 },
+    "3": { "pos": "2|4", "number":"3", "type": 1 },
 
-        "b_10": {"pos": "-4|6", "number":"b_10", "type": 0 },
-        "b_11": {"pos": "4|6", "number":"b_11", "type": 0 },
+    "b_10": {"pos": "-4|6", "number":"b_10", "type": 0 },
+    "b_11": {"pos": "4|6", "number":"b_11", "type": 0 },
 
-        "b_12": {"pos": "0|7", "number":"b_12", "type": 0 },
+    "b_12": {"pos": "0|7", "number":"b_12", "type": 0 },
 
-        "b_13": {"pos": "-4|8", "number":"b_13", "type": 0 },
-        "b_14": {"pos": "4|8", "number":"b_14", "type": 0 },
+    "b_13": {"pos": "-4|8", "number":"b_13", "type": 0 },
+    "b_14": {"pos": "4|8", "number":"b_14", "type": 0 },
 
-        "10": { "pos": "-2|10", "number":"10", "type": 1  },
-        "11": { "pos": "0|10", "number":"11", "type": 1  },
-        "12": { "pos": "2|10", "number":"12", "type": 1  },
+    "10": { "pos": "-2|10", "number":"10", "type": 1 },
+    "11": { "pos": "0|10", "number":"11", "type": 1 },
+    "12": { "pos": "2|10", "number":"12", "type": 1 },
 
-        "19": { "pos": "0|12", "number":"19", "type": 1  },
+    "19": { "pos": "0|12", "number":"19", "type": 1 },
 
-        "b_15": {"pos": "0|14", "number":"b_15", "type": 0 },       
+    "b_15": {"pos": "0|14", "number":"b_15", "type": 0 },
 
-        "22": { "pos": "0|16", "number":"22", "type": 1  },
-
+    "22": { "pos": "0|16", "number":"22", "type": 1 },
 
 
-        "b_16": {"pos": "-5|18", "number":"b_16", "type": 0 },
-        "23": { "pos": "0|18", "number":"23", "type": 1  },
-        "b_17": {"pos": "5|18", "number":"b_17", "type": 0 },
+    "b_16": {"pos": "-5|18", "number":"b_16", "type": 0 },
+    "23": { "pos": "0|18", "number":"23", "type": 1  },
+    "b_17": {"pos": "5|18", "number":"b_17", "type": 0 },
+
+    "b_18": {"pos": "8|2", "number":"b_18", "type": 0 },
+
+    "7": { "pos": "6|4", "number":"7", "type": 1 },
+    "8": { "pos": "8|4", "number":"8", "type": 1 },
+    "9": { "pos": "10|4", "number":"9", "type": 1 },
+
+    "b_19": {"pos": "8|7", "number":"b_19", "type": 0 },
+    "b_20": {"pos": "10|7", "number":"b_20", "type": 0 },
+    "b_21": {"pos": "6|7", "number":"b_21", "type": 0 },
+
+    "16": { "pos": "6|10", "number":"16", "type": 1 },
+    "17": { "pos": "8|10", "number":"17", "type": 1 },
+    "18": { "pos": "10|10", "number":"18", "type": 1 },
+
+    "21": { "pos": "8|12", "number":"21", "type": 1 },
+
+    "b_22": {"pos": "4|16", "number":"b_22", "type": 0 },
 
 
-        "b_18": {"pos": "8|2", "number":"b_18", "type": 0 },
-			
-        "7": { "pos": "6|4", "number":"7", "type": 1  },
-        "8": { "pos": "8|4", "number":"8", "type": 1  },
-        "9": { "pos": "10|4", "number":"9", "type": 1  },
+    "24": { "pos": "-6|20", "number":"24", "type": 1 },
+    "b_23": {"pos": "-8|24", "number":"b_23", "type": 3 },
+    "30": { "pos": "-10|26", "number":"30", "type": 1 },
+    "31": { "pos": "-8|26", "number":"31", "type": 1 },
+    "32": { "pos": "-6|26", "number":"32", "type": 1 },
+    "b_24": {"pos": "-10|28", "number":"b_24", "type": 0 },
+    "b_25": {"pos": "-8|28", "number":"b_25", "type": 0 },
+    "b_26": {"pos": "-6|28", "number":"b_26", "type": 0 },
+    "40": { "pos": "-10|30", "number":"40", "type": 1 },
+    "41": { "pos": "-8|30", "number":"41", "type": 1 },
+    "42": { "pos": "-6|30", "number":"42", "type": 1 },
 
-        "b_19": {"pos": "8|7", "number":"b_19", "type": 0 },
-        "b_20": {"pos": "10|7", "number":"b_20", "type": 0 },
-        "b_21": {"pos": "6|7", "number":"b_21", "type": 0 },
-
-        "16": { "pos": "6|10", "number":"16", "type": 1  },
-        "17": { "pos": "8|10", "number":"17", "type": 1  },
-        "18": { "pos": "10|10", "number":"18", "type": 1  },
-       
-        "21": { "pos": "8|12", "number":"21", "type": 1  },
-
-        "b_22": {"pos": "4|16", "number":"b_22", "type": 0 },
-       
-
-        "24": { "pos": "-6|20", "number":"24", "type": 1  },
-        "b_23": {"pos": "-8|24", "number":"b_23", "type": 3 },
-        "30": { "pos": "-10|26", "number":"30", "type": 1  },
-		"31": { "pos": "-8|26", "number":"31", "type": 1  },
-        "32": { "pos": "-6|26", "number":"32", "type": 1  },
-        "b_24": {"pos": "-10|28", "number":"b_24", "type": 0 },
-        "b_25": {"pos": "-8|28", "number":"b_25", "type": 0 },
-        "b_26": {"pos": "-6|28", "number":"b_26", "type": 0 },
-        "40": { "pos": "-10|30", "number":"40", "type": 1  },
-        "41": { "pos": "-8|30", "number":"41", "type": 1  },
-        "42": { "pos": "-6|30", "number":"42", "type": 1  },
-     
-		"46": { "pos": "-8|32", "number":"46", "type": 1  },
-        "b_27": {"pos": "-4|32", "number":"b_27", "type": 0 },
+    "46": { "pos": "-8|32", "number":"46", "type": 1 },
+    "b_27": {"pos": "-4|32", "number":"b_27", "type": 0 },
 
 
-        "25": { "pos": "0|20", "number":"25", "type": 1  },
-        "b_28": {"pos": "0|22", "number":"b_28", "type": 0 },
-        "27": { "pos": "-2|22", "number":"27", "type": 1  },
-        "28": { "pos": "2|22", "number":"28", "type": 1  },
-        "29": { "pos": "0|24", "number":"29", "type": 1  },
+    "25": { "pos": "0|20", "number":"25", "type": 1 },
+    "b_28": {"pos": "0|22", "number":"b_28", "type": 0 },
+    "27": { "pos": "-2|22", "number":"27", "type": 1 },
+    "28": { "pos": "2|22", "number":"28", "type": 1 },
+    "29": { "pos": "0|24", "number":"29", "type": 1 },
 
-        "b_29": {"pos": "-4|24", "number":"b_29", "type": 0 },
-        "b_30": {"pos": "4|24", "number":"b_30", "type": 0 },
+    "b_29": {"pos": "-4|24", "number":"b_29", "type": 0 },
+    "b_30": {"pos": "4|24", "number":"b_30", "type": 0 },
 
-        "b_31": {"pos": "-4|26", "number":"b_31", "type": 0 },
-        "b_32": {"pos": "0|26", "number":"b_32", "type": 0 },
-        "b_33": {"pos": "4|26", "number":"b_33", "type": 0 },
-       
+    "b_31": {"pos": "-4|26", "number":"b_31", "type": 0 },
+    "b_32": {"pos": "0|26", "number":"b_32", "type": 0 },
+    "b_33": {"pos": "4|26", "number":"b_33", "type": 0 },
 
-        "36": { "pos": "-2|28", "number":"36", "type": 1  },
-        "37": { "pos": "0|28", "number":"37", "type": 1  },
-        "38": { "pos": "2|28", "number":"38", "type": 1  },
-        "39": { "pos": "0|30", "number":"39", "type": 1  },
 
-        "b_34": {"pos": "0|32", "number":"b_34", "type": 0 },
-       
+    "36": { "pos": "-2|28", "number":"36", "type": 1 },
+    "37": { "pos": "0|28", "number":"37", "type": 1 },
+    "38": { "pos": "2|28", "number":"38", "type": 1 },
+    "39": { "pos": "0|30", "number":"39", "type": 1 },
 
-        "26": { "pos": "6|20", "number":"26", "type": 1  },
+    "b_34": {"pos": "0|32", "number":"b_34", "type": 0 },
 
-        "b_35": {"pos": "8|24", "number":"b_35", "type": 0 },
-        
-        "33": { "pos": "6|26", "number":"33", "type": 1  },
-        "34": { "pos": "8|26", "number":"34", "type": 1  },
-		"35": { "pos": "10|26", "number":"35", "type": 1  },
-        
-        "b_36": {"pos": "6|28", "number":"b_36", "type": 0 },
-        "b_37": {"pos": "8|28", "number":"b_37", "type": 0 },
-        "b_38": {"pos": "10|28", "number":"b_38", "type": 0 },
-       
-		"43": { "pos": "6|30", "number":"43", "type": 1  },
-        "44": { "pos": "8|30", "number":"44", "type": 1  },
-        "45": { "pos": "10|30", "number":"45", "type": 1  },
 
-        "47": { "pos": "8|32", "number":"47", "type": 1  },
-       
-        "b_39": {"pos": "4|32", "number":"b_39", "type": 0 },
+    "26": { "pos": "6|20", "number":"26", "type": 1 },
 
-        "48": { "pos": "-2|34", "number":"48", "type": 1  },
-        "49": { "pos": "0|34", "number":"49", "type": 1  },
-        "50": { "pos": "2|34", "number":"50", "type": 1  },
-        "51": { "pos": "-4|36", "number":"51", "type": 1  },
-        "52": { "pos": "0|36", "number":"52", "type": 1  },
-        "53": { "pos": "4|36", "number":"53", "type": 1  },
-        "54": { "pos": "-2|38", "number":"54", "type": 1  },
-        "55": { "pos": "2|38", "number":"55", "type": 1  }        
-	},
-	"base_paths": {
-        "p_1_1a": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_1","b_2","b_4"
-            ] },
-        "p_1_1b": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_1","b_3","b_18"
-            ] },
-        "p_1_1c": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_1","b_9"
-            ] },
-        "p_1_2a": {
-                "highlight": false,
-                "nodes":
-                [
-                    "b_4", "4", "b_5","13","20","b_8","22"
-                ] } ,
-        "p_1_2b": {
-                "highlight": false,
-                "nodes":
-                [
-                    "b_4","5","b_6","14","20"
-                ] } ,
-        "p_1_2c": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_4","6","b_7","15","20"
-            ] } ,
+    "b_35": {"pos": "8|24", "number":"b_35", "type": 0 },
 
-        "p_1_3a": {
-                "highlight": false,
-                "nodes":
-                [
-                    "b_9","1","b_10","b_13","10","19","b_15", "22"
-                ] },
-        "p_1_3b": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_9","2","b_12","11", "19"
-            ] },
-        "p_1_3c": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_9","3","b_11","b_14","12","19"
-            ] },
-        "p_1_4a": {
-                "highlight": false,
-                "nodes":
-                [
-                    "b_18","7","b_21","16","21","b_22","22","23"
-                ] },
-        "p_1_4b": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_18","8","b_19","17","21"
-            ] },
-        "p_1_4c": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_18","9","b_20","18","21"
-            ] },
-        "p_2_1a": {
-            "highlight": false,
-            "nodes":
-            [
-                "23","b_16","24","b_23"
-            ] },
-        "p_2_1b": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_23","30","b_24","40","46", "b_27","b_34"
-            ] },
-        "p_2_1c": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_23","31","b_25","41","46"
-            ] },
-        "p_2_1d": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_23","32","b_26","42","46"
-            ] },
-        "p_2_2a": {
-            "highlight": false,
-            "nodes":
-            [
-                "23","25","b_28", "29", "b_32","37", "39", "b_34"
-            ] },
-        "p_2_2b": {
-            "highlight": false,
-            "nodes":
-            [
-                "25","b_28","27", "b_29","b_31", "36", "39"
-            ] },
-        "p_2_2c": {
-            "highlight": false,
-            "nodes":
-            [
-                "25","b_28","28", "b_30", "b_33", "38", "39"
-            ] },
-        "p_2_3a": {
-            "highlight": false,
-            "nodes":
-            [
-                "23","b_17","26","b_35"
-            ] },
-        "p_2_3b": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_35","33","b_36","43", "47", "b_39", "b_34"
-            ] },
-        "p_2_3c": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_35","34","b_37","44", "47"
-            ]},
-        "p_2_3d": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_35","35","b_38","45", "47"
-            ]},
-        "p_3_1a": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_34","48","51","54","52"
-            ] },
-        "p_3_1b": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_34","49","52"
-            ] },
-        "p_3_1c": {
-            "highlight": false,
-            "nodes":
-            [
-                "b_34","50","53","55","52"
-            ]},
-            "p_3_1d": {
-                "highlight": false,
-                "nodes":
-                [
-                    "48","49","50"
-                ]}},
-    "paths": {
-            "base" : {
-                "1_1": {
-                    "highlight": true,
-                    "nodes": [ "1", "b_9"] 
-                }
-                }
-	},
-	"boosts": {
-        "1": ["iso:50", "health:25", "electricfluctuations:1"],
-        "2": ["iso:50", "health:25", "backuprecovery:1"],
-        "3": ["iso:50", "health:25", "spite"],
-        "4": ["iso:50", "health:25", "allornothing"],
-        "5": ["iso:50", "health:25", "poison"],
-        "6": ["iso:50", "health:25", "quicknullify:Regen:1"],
-        "7": ["iso:50", "health:25", "breakthrough"],
-        "8": ["iso:50", "health:25", "powerbond"],
-        "9": ["iso:50", "health:25", "powerfocus:1"],
-        "10": ["iso:50", "health:25", "starburst"],
-        "11": ["iso:50", "health:25", "invertedimmunity:bleed:1"],
-        "12": ["iso:50", "health:25", "longdistancerelationship"],
-        "13": ["iso:50", "health:25", "aegis:heavy:1"],
-        "14": ["iso:50", "health:25", "powerfocus:2"],
-        "15": ["iso:50", "health:25", "psychicthorns:1", "quicknullify:regen:1"],
-        "16": ["iso:50", "health:25",  "psychicthorns:1"],
-        "17": ["iso:50", "health:25", "bubbleshield:1"],
-        "18": ["iso:50", "health:25", "aegis:heavy:1", "bubbleshield:1"],
-        "19": ["iso:50", "health:25", "heavyhitter"],
-        "20": ["iso:50", "health:25", "breakthrough", "powerfocus:1", "mightlychange:1"],
-        "21": ["iso:50", "health:25", "fisticuffs:1"],
-        "22": ["iso:75", "health:150", "optimist", "Opportunist:3"],
-        "23": ["iso:75", "health:100", "pessimist", "sadist:3"],
-        "24": ["iso:75", "health:25", "buffduration:1"],
-        "25": ["iso:75", "health:25", "limitedimunity:1"],
-        "26": ["iso:75", "health:25", "masochism"],
-        "27": ["iso:75", "health:25", "immunity:Bleed"],
-        "28": ["iso:75", "health:25","thebestdefense:1"],
-        "29": ["iso:75", "health:25","specialbias1", "enhancedsp1"],
-        "30": ["iso:75", "health:25", "powerstart1"],
-        "31": ["iso:75", "health:25", "closeencounters"],
-        "32": ["iso:75", "health:25", "forceofwill"],
-        "33": ["iso:75", "health:25", "specialbias2", "enhancedsp2"],
-        "34": ["iso:75", "health:25", "immunity:Poison"],
-        "35": ["iso:75", "health:25", "backuprecovery:1"],
-        "36": ["iso:75", "health:25", "redoubleddetermination:1"],
-        "37": ["iso:75", "health:25", "redoubleddetermination:1", "limitedimmunity:1"],
-        "38": ["iso:75", "health:25", "boostbuff:Armor Up:1"],
-        "39": ["iso:75", "health:25", "protectionshielding:1"],
-        "40": ["iso:75", "health:25", "prayontheweak"],
-        "41": ["iso:75", "health:25", "kineticinstigator", "resistor"],
-        "42": ["iso:75", "health:25", "recovery:100"],
-        "43": ["iso:75", "health:25", "thebestdefense:1", "backuprecovery:1"],
-        "44": ["iso:75", "health:25", "protectionshielding:1", "preyontheweak"],
-        "45": ["iso:75", "health:25", "resistor"],
-        "46": ["iso:75", "health:25", "buffduration:1", "stunimmune"],
-        "47": ["iso:75", "health:25", "powershield", "truestrike"],
-        "48": ["boost:100", "health:150", "bleedimmunity", "poisonimmunity", "stun"],
-        "49": ["boost:100", "health:150", "mirrorimage", "truestrike"],
-        "50": ["boost:100", "health:150", "physicalresistance:10", "enhancedsp1"],
-        "51": ["boost:100", "health:150", "limber:0.1", "kineticreactor"],
-        "52": ["boost:100", "health:150", "plaugedmind:1","recovery:100"],
-        "53": ["boost:100", "health:150", "powergain:100", "enhancedspecial2"],
-        "54": ["iso:75", "health:500", "presistance:20", "comboshield", "checkmate", "stunimmune"],
-        "55": ["boost:100", "health:150", "stunimmune"]
-	},
+    "33": { "pos": "6|26", "number":"33", "type": 1 },
+    "34": { "pos": "8|26", "number":"34", "type": 1 },
+    "35": { "pos": "10|26", "number":"35", "type": 1 },
 
-	"links": {
+    "b_36": {"pos": "6|28", "number":"b_36", "type": 0 },
+    "b_37": {"pos": "8|28", "number":"b_37", "type": 0 },
+    "b_38": {"pos": "10|28", "number":"b_38", "type": 0 },
+
+    "43": { "pos": "6|30", "number":"43", "type": 1 },
+    "44": { "pos": "8|30", "number":"44", "type": 1 },
+    "45": { "pos": "10|30", "number":"45", "type": 1 },
+
+    "47": { "pos": "8|32", "number":"47", "type": 1 },
+
+    "b_39": {"pos": "4|32", "number":"b_39", "type": 0 },
+
+    "48": { "pos": "-2|34", "number":"48", "type": 1 },
+    "49": { "pos": "0|34", "number":"49", "type": 1 },
+    "50": { "pos": "2|34", "number":"50", "type": 1 },
+    "51": { "pos": "-4|36", "number":"51", "type": 1 },
+    "52": { "pos": "0|36", "number":"52", "type": 1 },
+    "53": { "pos": "4|36", "number":"53", "type": 1 },
+    "54": { "pos": "-2|38", "number":"54", "type": 1 },
+    "55": { "pos": "2|38", "number":"55", "type": 1 }
+  },
+
+  "base_paths": {
+    "p_1_1a": {
+      "highlight": false,
+      "nodes": ["b_1","b_2","b_4"] 
+    },
+    "p_1_1b": {
+      "highlight": false,
+      "nodes": ["b_1","b_3","b_18"]
+    },
+    "p_1_1c": {
+      "highlight": false,
+      "nodes": [ "b_1","b_9" ]
+    },
+
+    "p_1_2a": {
+      "highlight": false,
+      "nodes": [ "b_4", "4", "b_5","13","20","b_8","22" ]
+    },
+    "p_1_2b": {
+      "highlight": false,
+      "nodes": [ "b_4","5","b_6","14","20" ]
+    },
+    "p_1_2c": {
+      "highlight": false,
+      "nodes": [ "b_4","6","b_7","15","20" ]
+    },
+
+    "p_1_3a": {
+      "highlight": false,
+      "nodes": [ "b_9","1","b_10","b_13","10","19","b_15", "22" ]
+    },
+    "p_1_3b": {
+      "highlight": false,
+      "nodes": [ "b_9","2","b_12","11", "19" ]
+    },
+    "p_1_3c": {
+      "highlight": false,
+      "nodes": [ "b_9","3","b_11","b_14","12","19" ]
+    },
+
+    "p_1_4a": {
+      "highlight": false,
+      "nodes": [ "b_18","7","b_21","16","21","b_22","22","23" ]
+    },
+    "p_1_4b": {
+      "highlight": false,
+      "nodes": [ "b_18","8","b_19","17","21" ]
+    },
+    "p_1_4c": {
+      "highlight": false,
+      "nodes": [ "b_18","9","b_20","18","21" ]
+    },
+
+    "p_2_1a": {
+      "highlight": false,
+      "nodes": [ "23","b_16","24","b_23" ]
+    },
+    "p_2_1b": {
+      "highlight": false,
+      "nodes": [ "b_23","30","b_24","40","46", "b_27","b_34" ]
+    },
+    "p_2_1c": {
+      "highlight": false,
+      "nodes": [ "b_23","31","b_25","41","46" ]
+    },
+    "p_2_1d": {
+      "highlight": false,
+      "nodes": [ "b_23","32","b_26","42","46" ]
+    },
+
+    "p_2_2a": {
+      "highlight": false,
+        "nodes": [ "23","25","b_28", "29", "b_32","37", "39", "b_34" ]
+      },
+    "p_2_2b": {
+      "highlight": false,
+      "nodes": [ "25","b_28","27", "b_29","b_31", "36", "39" ]
+    },
+    "p_2_2c": {
+      "highlight": false,
+      "nodes": [ "25","b_28","28", "b_30", "b_33", "38", "39" ]
+    },
+
+    "p_2_3a": {
+      "highlight": false,
+      "nodes": [ "23","b_17","26","b_35" ]
+    },
+    "p_2_3b": {
+      "highlight": false,
+      "nodes": [ "b_35","33","b_36","43", "47", "b_39", "b_34" ]
+    },
+    "p_2_3c": {
+      "highlight": false,
+      "nodes": [ "b_35","34","b_37","44", "47" ]
+    },
+    "p_2_3d": {
+      "highlight": false,
+      "nodes": [ "b_35","35","b_38","45", "47" ]
+    },
+
+    "p_3_1a": {
+      "highlight": false,
+      "nodes": [ "b_34","48","51","54","52" ]
+    },
+    "p_3_1b": {
+      "highlight": false,
+      "nodes": [ "b_34","49","52" ]
+    },
+    "p_3_1c": {
+      "highlight": false,
+      "nodes": [ "b_34","50","53","55","52" ]
+    },
+    "p_3_1d": {
+      "highlight": false,
+      "nodes": [ "48","49","50" ]
+    }
+  },
+
+  "paths": {
+    "base" : {
+      "1_1": {
+        "highlight": true,
+        "nodes": [ "1", "b_9"] 
+      }
+    }
+  },
+
+  "boosts": {
+    "1": ["boost:50", "health:25", "steadybuildup-fury"],
+    "2": ["boost:50", "health:25", "aegis_heavy1"],
+    "3": ["boost:50", "health:25", "strikeback"],
+
+    "4": ["boost:50", "health:25", "aggressionregeneration"],
+    "5": ["boost:50", "health:25", "personalspace"],
+    "6": ["boost:50", "health:25", "armor:45", "heavyhanded"],
+
+    "7": ["boost:50", "health:25", "powerbond"],
+    "8": ["boost:50", "health:25", "buffimbalance-powerdrain", "healblock_passive"],
+    "9": ["boost:50", "health:25", "shiftingimmunity"],
+
+    "10": ["boost:50", "health:25", "steadybuildup-fury"],
+    "11": ["boost:50", "health:25", "aegis_heavy1"],
+    "12": ["boost:50", "health:25", "powerfocus1"],
+
+    "13": ["boost:50", "health:25", "masochism"],
+    "14": ["boost:50", "health:25", "strikecounter-fury"],
+    "15": ["boost:50", "health:25", "breakthrough"],
+
+    "16": ["boost:50", "health:25", "powerbond"],
+    "17": ["boost:50", "health:25", "buffimbalance-powerdrain", "healblock_passive"],
+    "18": ["boost:50", "health:25", "shiftingimmunity"],
+
+    "19": ["boost:50", "health:25", "heavyhitter", "steadybuildup-fury"],
+    "20": ["boost:50", "health:25", "armor:20", "aggressionregeneration"],
+    "21": ["boost:50", "health:25", "buffimbalance-powerdrain", "matador"],
+
+    "22": ["boost:75", "health:150", "outlast", "powersnack"],
+    "23": ["boost:75", "health:100", "mixmaster", "aggressionprowess"],
+
+    "24": ["boost:75", "health:25", "empmodification", "enhancedenergyattack"],
+    "25": ["boost:75", "health:25", "crumblingarmor", "kinetictransference"],
+    "26": ["boost:75", "health:25", "encroachingstun"],
+
+    "27": ["boost:100", "health:50", "steadybuildup-unblockable"],
+    "28": ["boost:100", "health:50", "aggressionfury"],
+    "29": ["boost:100", "health:50", "safeguard"],
+
+    "30": ["boost:100", "health:50", "arcoverload2"],
+    "31": ["boost:100", "health:50", "supercharge"],
+    "32": ["boost:100", "health:50", "boostbuff1"],
+
+    "33": ["boost:100", "health:50", "spite", "enhancedsp2"],
+    "34": ["boost:100", "health:50", "buffimbalance-weakness", "healblock_passive"],
+    "35": ["boost:100", "health:50", "windowofopportunity-stun"],
+
+    "36": ["boost:100", "health:50", "steadybuildup-unblockable"],
+    "37": ["boost:100", "health:50", "safeguard", "limber_percent:10"],
+    "38": ["boost:100", "health:50", "aggressionprowess"],
+
+    "39": ["boost:75", "health:25", "bufftoggleunstoppable1", "redoubleddetermination1"],
+
+    "40": ["boost:100", "health:50", "buffet:5"],
+    "41": ["boost:100", "health:50", "strikecounter-combatpowerrate"],
+    "42": ["boost:100", "health:50", "explosivepersonality"],
+
+    "43": ["boost:100", "health:50", "kinetictransference", "backuprecovery:1"],
+    "44": ["boost:100", "health:50", "buffimbalance-weakness", "healblock_passive"],
+    "45": ["boost:100", "health:50", "windowofopportunity-stun"],
+
+    "46": ["boost:75", "health:25", "strikecounter-combatpowerrate", "boostbuff1"],
+    "47": ["boost:75", "health:25", "richgetricher", "powerfulfromafar"],
+
+    "48": ["boost:100", "health:150", "rage", "extend"],
+    "49": ["boost:100", "health:150", "shiftingimmunity", "limber:10", "debilitate"],
+    "50": ["boost:100", "health:150", "recovery:100", "indomitable"],
+
+    "51": ["boost:100", "health:150", "hurtlocker", "powerfocus1"],
+    "52": ["boost:100", "health:500", "presistance:20", "stunimmune", "comboshield", "checkmate"],
+    "53": ["boost:100", "health:150", "polkadotpower"],
+
+    "54": ["boost:100", "health:500", "aspectofevolution", "specialbias2"],
+    "55": ["boost:100", "health:150", "thebestdefence1", "bane", "spry", "limber:10"]
+  },
+
+  "links": {
     "b_1_1": [10, 15, ["iso:50"]],
     "b_1_1a": [11, 15, ["iso:50"]],
     "b_1_1b": [16, 15, ["iso:50"]],
@@ -403,12 +372,11 @@
     "b_1_38": [55, 54, ["iso:50"]],
     "b_1_36": [15, 22, ["iso:50"]],
     "b_1_25": [18, 23, ["iso:50"]]
-    },
+  },
 
-    "portal_links": {
-    },
+  "portal_links": {
+  },
 
-
-	"prefered_champs": {
-	}
+  "prefered_champs": {
+  }
 }

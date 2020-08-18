@@ -295,7 +295,7 @@
 		[-5, 46],
 		[-3, 46, "yellowjacket", "sc"],
 		[0, 46, "symbioid_talent", "ta"],
-		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mystic_ward95"]]
+		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mysticward95"]]
 	],
 	"p_3_3": [
 		[0, 37],
@@ -309,7 +309,7 @@
 		[-5, 46],
 		[-3, 46, "yellowjacket", "sc"],
 		[0, 46, "symbioid_talent", "ta"],
-		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mystic_ward95"]]
+		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mysticward95"]]
 	],
 	"p_3_4": [
 		[0, 37],
@@ -324,7 +324,7 @@
 		[-5, 46],
 		[-3, 46, "yellowjacket", "sc"],
 		[0, 46, "symbioid_talent", "ta"],
-		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mystic_ward95"]]
+		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mysticward95"]]
 	],
 	"p_3_5": [
 		[0, 37],
@@ -339,7 +339,7 @@
 		[5, 46],
 		[3, 46, "hood", "my"],
 		[0, 46, "symbioid_talent", "ta"],
-		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mystic_ward95"]]
+		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mysticward95"]]
 	],
 	"p_3_6": [
 		[0, 37],
@@ -353,7 +353,7 @@
 		[5, 46],
 		[3, 46, "hood", "my"],
 		[0, 46, "symbioid_talent", "ta"],
-		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mystic_ward95"]]
+		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mysticward95"]]
 	],
 	"p_3_7": [
 		[0, 37],
@@ -369,7 +369,7 @@
 		[5, 46],
 		[3, 46, "hood", "my"],
 		[0, 46, "symbioid_talent", "ta"],
-		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mystic_ward95"]]
+		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mysticward95"]]
 	],
 	"p_3_8": [
 		[0, 37],
@@ -387,7 +387,7 @@
 		[5, 46],
 		[3, 46, "hood", "my"],
 		[0, 46, "symbioid_talent", "ta"],
-		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mystic_ward95"]]
+		[0, 49, "dormammu", "co", ["healblock", "boost500", "health100", "iso25", "mysticward95"]]
 	],
 	
 	

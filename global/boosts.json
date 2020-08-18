@@ -27,7 +27,7 @@
 	"buffet" : {
 		"img" : "buffet",
 		"title" : "Buffet",
-		"text" : "Every 7 seconds the next Buff triggered by the attacker is immedieatly removed. Each time the efect triggers they Regenerate {0} of their Max Health."
+		"text" : "Every 7 seconds the next Buff triggered by the attacker is immedieatly removed. Each time the efect triggers they Regenerate {0}% of their Max Health."
 	},
 	"powerreserve" : {
 		"img" : "powerreserve",
@@ -357,8 +357,8 @@
 	},
 	"presistance" : {
 		"img" : "presistance",
-		"title" : "Physical-Resistance",
-		"text" : "+{0}% Physical-Resistance"
+		"title" : "Physical Resistance",
+		"text" : "+{0}% Physical Resistance"
 	},
 	"eresistance" : {
 		"img" : "eresistance",
@@ -594,7 +594,7 @@
 	},
 	"biohazard":{
 		"img" : "",
-		"title" : "biohazard",
+		"title" : "Biohazard",
 		"text" : "When stuck, 20% chance to inflict Bleed, dealing 100% of Attack as direct damage over 7.50 seconds. When Blocking an attack 50% chance to inflict Poison, dealing 100% of Attack as direct damage over 7.50 seconds."
 	},
 	"oppressivecurse":{
@@ -950,7 +950,7 @@
   	"richgetricher":{
 		"img" : "",
 		"title" : "Rich Get Richer",
-		"text" : "Whichever Champion has more Unique Buffs gains X% of a bar of Power every second."
+		"text" : "Whichever Champion has more Unique Buffs gains {0}% of a bar of Power every second."
 	},
   	"bufftoggleunstoppable1":{
 		"img" : "",

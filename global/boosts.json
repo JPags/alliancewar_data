@@ -91,7 +91,7 @@
   },
   "biohazard": {
     "img": "",
-    "title": "biohazard",
+    "title": "Biohazard",
     "text": "When stuck, 20% chance to inflict Bleed, dealing 100% of Attack as direct damage over 7.50 seconds. When Blocking an attack 50% chance to inflict Poison, dealing 100% of Attack as direct damage over 7.50 seconds."
   },
   "bleed": {
@@ -766,8 +766,8 @@
   },
   "presistance": {
     "img": "presistance",
-    "title": "Physical-Resistance",
-    "text": "+{0}% Physical-Resistance"
+    "title" : "Physical Resistance",
+		"text" : "+{0}% Physical Resistance"
   },
   "rage": {
     "img": "attack",
@@ -847,7 +847,7 @@
   "richgetricher": {
     "img": "",
     "title": "Rich Get Richer",
-    "text": "Whichever Champion has more Unique Buffs gains X% of a bar of Power every second."
+    "text": "Whichever Champion has more Unique Buffs gains {0}% of a bar of Power every second."
   },
   "rollingthunder": {
     "img": "rollingthunder",
